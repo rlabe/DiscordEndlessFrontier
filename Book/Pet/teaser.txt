@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit orc hammer unit | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307203152434692108/UI_PET82.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/82.png",
   "fields": [
     {
       "name": "Skill 1",

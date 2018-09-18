@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit high elf archer | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307203067630059530/UI_PET69.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/69.png",
   "fields": [
     {
       "name": "Skill 1",

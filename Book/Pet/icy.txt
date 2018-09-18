@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit priest | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202753548255242/UI_PET17.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/.png",
   "fields": [
     {
       "name": "Skill 1",

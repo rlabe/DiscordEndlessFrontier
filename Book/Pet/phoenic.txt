@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit fire mage | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202680265375746/UI_PET9.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/9.png",
   "fields": [
     {
       "name": "Skill 1",

@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit flame spirit | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/356654630144311297/UI_PET93.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/93.png",
   "fields": [
     {
       "name": "Skill 1",

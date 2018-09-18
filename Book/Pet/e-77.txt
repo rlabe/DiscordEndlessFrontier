@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit steam punk | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202936986140673/UI_PET48.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/48.png",
   "fields": [
     {
       "name": "Skill 1",

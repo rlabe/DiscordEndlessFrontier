@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit gunner | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202664675147776/UI_PET5.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/5.png",
   "fields": [
     {
       "name": "Skill 1",

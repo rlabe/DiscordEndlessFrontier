@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit bomb unit | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202672648257546/UI_PET7.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/7.png",
   "fields": [
     {
       "name": "Skill 1",

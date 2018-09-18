@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit hoyden goku | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202875073757184/UI_PET37.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/37.png",
   "fields": [
     {
       "name": "Skill 1",

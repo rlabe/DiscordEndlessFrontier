@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit wind mage | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307203079437287455/UI_PET71.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/71.png",
   "fields": [
     {
       "name": "Skill 1",

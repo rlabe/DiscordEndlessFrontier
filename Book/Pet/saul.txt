@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit blade master | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/356654643801227264/UI_PET96.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/96.png",
   "fields": [
     {
       "name": "Skill 1",

@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit dark admiral | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202880992051201/UI_PET38.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/38.png",
   "fields": [
     {
       "name": "Skill 1",

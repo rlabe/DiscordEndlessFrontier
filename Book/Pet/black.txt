@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit incubus | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202990131904513/UI_PET57.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/57.png",
   "fields": [
     {
       "name": "Skill 1",

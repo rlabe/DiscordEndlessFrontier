@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit forest guardian | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307202806639493120/UI_PET26.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/26.png",
   "fields": [
     {
       "name": "Skill 1",

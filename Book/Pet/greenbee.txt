@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit green eagle | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307203074517237760/UI_PET70.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/70.png",
   "fields": [
     {
       "name": "Skill 1",

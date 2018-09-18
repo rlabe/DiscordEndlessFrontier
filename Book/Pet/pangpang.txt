@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !unit musketeer | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/307202420994473986/307203028686209024/UI_PET63.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/63.png",
   "fields": [
     {
       "name": "Skill 1",
