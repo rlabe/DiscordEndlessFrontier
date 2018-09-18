@@ -5,7 +5,7 @@
   "footer": {
     "text": "See !art 179 | !books | !petbook"
   },
-  "thumbnail": "https://cdn.discordapp.com/attachments/379011658665689098/406017636460396546/UI_PET152.png",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/152.png",
   "fields": [
     {
       "name": "Skill 1",
