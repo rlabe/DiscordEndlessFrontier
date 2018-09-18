@@ -1,0 +1,45 @@
+.acr "!todo" {
+  "plaintext": "%user% typed `!todo`",
+  "title": "TO DO list for EndlessFrontier",
+  "description": "`All we still have to do for the Bot`",
+  "footer": {
+    "text": "Have fun."
+  },
+  "fields": [
+    {
+      "name": "Artefacts",
+      "value": "
+      1. Add pictures for 6* and 7*
+      2. Add pictures for the rest
+      "
+    },
+    {
+      "name": "Pets",
+      "value": "
+      1. Correct the picture links
+      "
+    },
+    {
+      "name": "Units",
+      "value": "
+      1. Correct the picture links
+      "
+    },
+    {
+      "name": "Tower of Trial",
+      "value": "
+      1. Encoding stage 20 to 36
+	  2. Find out a design
+      "
+    },
+    {
+      "name": "Spirit Highland",
+      "value": "
+      1. Find out a design
+	  2. Encoding by pets ?
+	     Encoding by page ?
+      "
+    }
+  ],
+  "color": 15843890
+}
