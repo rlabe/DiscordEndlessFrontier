@@ -9,13 +9,13 @@
     {
       "name": "Artifacts",
       "value": "
-      1. Add pictures for 6* and 7*
-      2a. Remove all the !art 6* and 7* commands from Discord FanService
+      ~~1. Add pictures for 6* and 7*~~
+      ~~2a. Remove all the !art 6* and 7* commands from Discord FanService~~
       2b. Add new commands on Discord FanService
       3a. Remove all the !art 6* and 7* commands from Discord EF
       3b. Add new commands on Discord EF
-      4. Add pictures for all others artifacts
-      5a. Remove all the !art 6* and 7* commands from Discord FanService
+      ~~4. Add pictures for all others artifacts~~
+      ~~5a. Remove all the !art commands from Discord FanService~~
       5b. Add new commands on Discord FanService
       6a. Remove all the !art 6* and 7* commands from Discord EF
       6b. Add new commands on Discord EF
@@ -59,3 +59,4 @@
   ],
   "color": 15843890
 }
+
