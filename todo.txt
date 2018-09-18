@@ -1,5 +1,5 @@
-.acr "!todo" {
-  "plaintext": "%user% typed `!todo`",
+.acr ":todo" {
+  "plaintext": "%user% typed `:todo`",
   "title": "TO DO list for EndlessFrontier",
   "description": "`All we still have to do for the Bot`",
   "footer": {
