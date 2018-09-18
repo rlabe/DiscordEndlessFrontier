@@ -12,13 +12,11 @@
       ~~1. Add pictures for 6* and 7*~~
       ~~2a. Remove all the !art 6* and 7* commands from Discord FanService~~
       ~~2b. Add new commands on Discord FanService~~
-      3a. Remove all the others !art commands from Discord EF
-      3b. Add new commands on Discord EF
-      ~~4. Add pictures for all others artifacts~~
-      ~~5a. Remove all the !art commands from Discord FanService~~
-      5b. Add new commands on Discord FanService
-      6a. Remove all the !art 6* and 7* commands from Discord EF
-      6b. Add new commands on Discord EF
+      ~~3. Add pictures for all others artifacts~~
+      ~~4a. Remove all the !art commands from Discord FanService~~
+      ~~4b. Add new commands on Discord FanService~~
+      5a. Remove all the !art commands from Discord EF
+      5b. Add new commands on Discord EF
       "
     },
     {
@@ -34,7 +32,7 @@
     {
       "name": "Units",
       "value": "
-      1. Correct the picture links
+      ~~1. Correct the picture links~~
       ~~2a. Remove all the !unit commands from Discord FanService~~
       2b. Add new commands on Discord FanService
       3a. Remove all the !unit commands from Discord EF
