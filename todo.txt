@@ -7,37 +7,53 @@
   },
   "fields": [
     {
-      "name": "Artefacts",
+      "name": "Artifacts",
       "value": "
       1. Add pictures for 6* and 7*
-      2. Add pictures for the rest
+      2a. Remove all the !art 6* and 7* commands from Discord FanService
+      2b. Add new commands on Discord FanService
+      3a. Remove all the !art 6* and 7* commands from Discord EF
+      3b. Add new commands on Discord EF
+      4. Add pictures for all others artifacts
+      5a. Remove all the !art 6* and 7* commands from Discord FanService
+      5b. Add new commands on Discord FanService
+      6a. Remove all the !art 6* and 7* commands from Discord EF
+      6b. Add new commands on Discord EF
       "
     },
     {
       "name": "Pets",
       "value": "
       1. Correct the picture links
+      2a. Remove all the !pet commands from Discord FanService
+      2b. Add new commands on Discord FanService
+      3a. Remove all the !pet commands from Discord EF
+      3b. Add new commands on Discord EF
       "
     },
     {
       "name": "Units",
       "value": "
       1. Correct the picture links
+      2a. Remove all the !unit commands from Discord FanService
+      2b. Add new commands on Discord FanService
+      3a. Remove all the !unit commands from Discord EF
+      3b. Add new commands on Discord EF
       "
     },
     {
       "name": "Tower of Trial",
       "value": "
       1. Encoding stage 20 to 36
-	  2. Find out a design
+      2. Find out a design
       "
     },
     {
       "name": "Spirit Highland",
       "value": "
       1. Find out a design
-	  2. Encoding by pets ?
-	     Encoding by page ?
+      2. Encoding by pets ?
+         Encoding by page ?
       "
     }
   ],
