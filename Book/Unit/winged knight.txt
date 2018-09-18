@@ -1,4 +1,4 @@
-.acr "!unit winged knight" {"plaintext":"%user% typed `!unit winged knight`", "title":"Senior Winged Knight","description":"★★★★★★ | Flying Unit | :ap::hu::uf::hn: Gen 10","footer":{"text":"See !pet cat knight | !unitskill winged knight | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/379011658665689098/400540884363378708/UI_UNIT_ICONS0175.png","fields":[
+.acr "!unit winged knight" {"plaintext":"%user% typed `!unit winged knight`", "title":"Senior Winged Knight","description":"★★★★★★ | Flying Unit | :ap::hu::uf::hn: Gen 10","footer":{"text":"See !pet cat knight | !unitskill winged knight | !books | !unitbook"},"thumbnail":"http://endlessfrontierdata.com/images/units/175.png","fields":[
 {"name":"Abilities","value":"```+ Normal Attack: Attacks multiple targets with its long spear. 
 + Skill Attack: Flies to the enemy's base and then attacks multiple targets. 
 + Special Ability 1: Increases the game speed by 10% and increases the movement speed and the critical damage of Human units by 7%. 

@@ -1,4 +1,4 @@
-.acr "!unit cleric" {"plaintext":"%user% typed `!unit cleric`", "title":"Senior Cleric","description":"★★★★★★ | Ground Unit | :am::uh::um::ta::hn: Gen 9","footer":{"text":"See !pet bernard | !unitskill cleric | !books | !unitbook"},"thumbnail":"https://cdn.discordapp.com/attachments/307208125067296771/368888639444484097/cleric-senior-icon.png","fields":[
+.acr "!unit cleric" {"plaintext":"%user% typed `!unit cleric`", "title":"Senior Cleric","description":"★★★★★★ | Ground Unit | :am::uh::um::ta::hn: Gen 9","footer":{"text":"See !pet bernard | !unitskill cleric | !books | !unitbook"},"thumbnail":"http://endlessfrontierdata.com/images/units/166.png","fields":[
 {"name":"Abilities","value":"```+ Normal Attack: Attack maximum of 4 enemies by throwing an energy of holy light, and stun them.
 + Skill Attack : Summon a gigantic cross to attack the enemy and recovery friendly unit's health.
 + Special Ability 1 : Increase basic speed of the game by 8%, and increase movement speed of Human and Orc by 5%, and their attack range by 6%.
