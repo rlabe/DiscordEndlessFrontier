@@ -1,6 +1,7 @@
 .acr "!art 129" {  "plaintext":"%user% typed `!art 129`", 
   "title": "#129 : Essence of Laziness",
   "description": "Artifact Grade : ★★★★★★★ | Belial's Hammer set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/129.png",
   "footer": {
     "text": "See !pet harping | !artset 36 | !books | !artbook"
   },

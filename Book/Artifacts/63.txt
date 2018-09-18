@@ -1,6 +1,7 @@
 .acr "!art 63" {  "plaintext":"%user% typed `!art 63`", 
   "title": "#63 : Ancient High Priest's Robe",
   "description": "Artifact Grade : ★★★★★ | Ancient High Priest's Garment Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/63.png",
   "footer": {
     "text": "See !artset 6 | !books | !artbook"
   },

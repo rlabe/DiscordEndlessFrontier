@@ -1,6 +1,7 @@
 .acr "!art 44" {  "plaintext":"%user% typed `!art 44`", 
   "title": "#44 : Temple Battlemage's Shoes",
   "description": "Artifact Grade : ★★★★★ | Temple Battlemage's Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/44.png",
   "footer": {
     "text": "See !artset 23 | !books | !artbook"
   },

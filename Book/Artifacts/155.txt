@@ -1,6 +1,7 @@
 .acr "!art 155" {  "plaintext":"%user% typed `!art 155`", 
   "title": "#155 : Gaia's Rage",
   "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/155.png",
   "footer": {
     "text": "See !pet forest sorceress | !artset 41 | !books | !artbook"
   },

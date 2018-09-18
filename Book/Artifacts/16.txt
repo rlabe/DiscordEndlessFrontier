@@ -1,6 +1,7 @@
-.acr "!art 16" {  "plaintext":"%user% typed `!art 16`", 
+acr "!art 16" {  "plaintext":"%user% typed `!art 16`", 
   "title": "#16 : Crystal Staff of the Wise One",
   "description": "Artifact Grade : ★★",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/16.png",
   "footer": {
     "text": "See !books | !artbook"
   },

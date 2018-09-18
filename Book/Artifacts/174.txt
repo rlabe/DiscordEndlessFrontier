@@ -1,6 +1,7 @@
 .acr "!art 174" {  "plaintext":"%user% typed `!art 174`", 
   "title": "#174 : Odin's spear",
   "description": "Artifact Grade : ★★★★★★★ | Warning of Ragnarok Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/174.png",
   "footer": {
     "text": "See !pet odin | !artset 47 | !books | !artbook"
   },

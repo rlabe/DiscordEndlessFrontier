@@ -1,6 +1,7 @@
 .acr "!art 189" {  "plaintext":"%user% typed `!art 189`", 
   "title": "#189 : Hell Lord's Amulet",
   "description": "Artifact Grade : ★★★★★★★ | Hell Lord's Weapons set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/189.png",
   "footer": {
     "text": "See !pet dark sorceress | !artset 50 | !books | !artbook"
   },

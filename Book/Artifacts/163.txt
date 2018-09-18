@@ -1,6 +1,7 @@
 .acr "!art 163" {  "plaintext":"%user% typed `!art 163`", 
   "title": "#163 : Hammer of Hephaistos",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Victory Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/163.png",
   "footer": {
     "text": "See !pet hephaistos | !artset 45 | !books | !artbook"
   },

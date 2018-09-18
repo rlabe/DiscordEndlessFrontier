@@ -1,6 +1,7 @@
 .acr "!art 119" {  "plaintext":"%user% typed `!art 119`", 
   "title": "#119 : Mark of Shrine of Justice",
   "description": "Artifact Grade : ★★★★★★ | Shrine of Justice Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/119.png",
   "footer": {
     "text": "See !artset 18 | !books | !artbook"
   },

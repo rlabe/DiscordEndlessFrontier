@@ -1,6 +1,7 @@
 .acr "!art 42" {  "plaintext":"%user% typed `!art 42`", 
   "title": "#42 : Great General's Enhanced Alloy Greatsword",
   "description": "Artifact Grade : ★★★★★ | Great General's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/42.png",
   "footer": {
     "text": "See !artset 24 | !books | !artbook"
   },

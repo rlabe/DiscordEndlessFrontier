@@ -1,6 +1,7 @@
 .acr "!art 161" {  "plaintext":"%user% typed `!art 161`", 
   "title": "#161 : Spear of Zeus",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Authority Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/161.png",
   "footer": {
     "text": "See !pet zeus | !artset 42 | !books | !artbook"
   },

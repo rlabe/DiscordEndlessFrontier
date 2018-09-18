@@ -1,6 +1,7 @@
 .acr "!art 41" {  "plaintext":"%user% typed `!art 41`", 
   "title": "#41 : Great General's Enhanced Alloy Hammer",
   "description": "Artifact Grade : ★★★★★ | Great General's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/41.png",
   "footer": {
     "text": "See !artset 24 | !books | !artbook"
   },

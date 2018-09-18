@@ -1,6 +1,7 @@
 .acr "!art 136" {  "plaintext":"%user% typed `!art 136`", 
   "title": "#136 : White Tiger Helmet",
   "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/136.png",
   "footer": {
     "text": "See !pet white tiger | !artset 38 | !books | !artbook"
   },

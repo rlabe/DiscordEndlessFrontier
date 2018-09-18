@@ -1,6 +1,7 @@
 .acr "!art 72" {  "plaintext":"%user% typed `!art 72`", 
   "title": "#72 : Sea Dragon's Horn",
   "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/72.png",
   "footer": {
     "text": "See !artset 8 | !books | !artbook"
   },

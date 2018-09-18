@@ -1,6 +1,7 @@
 .acr "!art 138" {  "plaintext":"%user% typed `!art 138`", 
   "title": "#138 : Phoenix Cloak",
   "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/138.png",
   "footer": {
     "text": "See !pet phoenix | !artset 38 | !books | !artbook"
   },

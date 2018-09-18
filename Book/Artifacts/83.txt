@@ -1,6 +1,7 @@
 .acr "!art 83" {  "plaintext":"%user% typed `!art 83`", 
   "title": "#83 : Lion's Immortal Armor",
   "description": "Artifact Grade : ★★★★★★ | Immortal Ancient Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/83.png",
   "footer": {
     "text": "See !artset 11 | !books | !artbook"
   },

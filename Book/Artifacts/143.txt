@@ -1,6 +1,7 @@
 .acr "!art 143" {  "plaintext":"%user% typed `!art 143`", 
   "title": "#143 : Orc Hero's Axe",
   "description": "Artifact Grade : ★★★★★★★ | Heroes Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/143.png",
   "footer": {
     "text": "See !pet orc guardian | !artset 39 | !books | !artbook"
   },

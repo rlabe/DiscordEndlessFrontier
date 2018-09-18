@@ -1,6 +1,7 @@
 .acr "!art 11" {  "plaintext":"%user% typed `!art 11`", 
   "title": "#11 : Chief of Mercenary's Sword",
   "description": "Artifact Grade : ★ | Mercenary's Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/11.png",
   "footer": {
     "text": "See !artset 30 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 24" {  "plaintext":"%user% typed `!art 24`", 
   "title": "#24 : Knights' Battle Hammer",
   "description": "Artifact Grade : ★★★ | Knight's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/24.png",
   "footer": {
     "text": "See !artset 33 | !books | !artbook"
   },

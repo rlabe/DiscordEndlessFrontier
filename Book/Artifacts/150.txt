@@ -1,6 +1,7 @@
 .acr "!art 150" {  "plaintext":"%user% typed `!art 150`", 
   "title": "#150 : Yellow Dragon Saber",
   "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/150.png",
   "footer": {
     "text": "See !pet gold dragon | !artset 38 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 87" {  "plaintext":"%user% typed `!art 87`", 
   "title": "#87 : Golden Ring of Abundance",
   "description": "Artifact Grade : ★★★★★★ | Legacy of Abundance Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/87.png",
   "footer": {
     "text": "See !artset 12 | !books | !artbook"
   },

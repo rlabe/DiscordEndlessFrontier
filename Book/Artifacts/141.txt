@@ -1,6 +1,7 @@
 .acr "!art 141" {  "plaintext":"%user% typed `!art 141`", 
   "title": "#141 : Elf Hero's Bow",
   "description": "Artifact Grade : ★★★★★★★ | Heroes Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/141.png",
   "footer": {
     "text": "See !pet elf guardian | !artset 39 | !books | !artbook"
   },

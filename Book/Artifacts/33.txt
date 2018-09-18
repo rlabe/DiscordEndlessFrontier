@@ -1,6 +1,7 @@
 .acr "!art 33" {  "plaintext":"%user% typed `!art 33`", 
   "title": "#33 : Knight of Royal Guard's Alloy Hammer",
   "description": "Artifact Grade : ★★★★ | Royal Guard's Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/33.png",
   "footer": {
     "text": "See !artset 19 | !books | !artbook"
   },

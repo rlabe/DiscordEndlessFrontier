@@ -1,6 +1,7 @@
 .acr "!art 50" {  "plaintext":"%user% typed `!art 50`", 
   "title": "#50 : Heaven's Earrings",
   "description": "Artifact Grade : ★★★★★ | Oath of Heaven Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/50.png",
   "footer": {
     "text": "See !artset 2 | !books | !artbook"
   },

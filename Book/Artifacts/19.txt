@@ -1,6 +1,7 @@
 .acr "!art 19" {  "plaintext":"%user% typed `!art 19`", 
   "title": "#19 : Mage's Shoes",
   "description": "Artifact Grade : ★★ | Mage's Garment Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/19.png",
   "footer": {
     "text": "See !artset 26 | !books | !artbook"
   },

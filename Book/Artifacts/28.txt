@@ -1,6 +1,7 @@
 .acr "!art 28" {  "plaintext":"%user% typed `!art 28`", 
   "title": "#28 : Magician's Shoes",
   "description": "Artifact Grade : ★★★ | Magician's Garment Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/28.png",
   "footer": {
     "text": "See !artset 25 | !books | !artbook"
   },

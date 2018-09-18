@@ -1,6 +1,7 @@
 .acr "!art 70" {  "plaintext":"%user% typed `!art 70`", 
   "title": "#70 : Dark Knight's Bracelet",
   "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/70.png",
   "footer": {
     "text": "See !artset 7 | !books | !artbook"
   },

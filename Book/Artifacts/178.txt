@@ -1,6 +1,7 @@
 .acr "!art 178" {  "plaintext":"%user% typed `!art 178`", 
   "title": "#178 : Thread of Fate",
   "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/178.png",
   "footer": {
     "text": "See !pet urd | !artset 48 | !books | !artbook"
   },

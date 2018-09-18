@@ -1,6 +1,7 @@
 .acr "!art 43" {  "plaintext":"%user% typed `!art 43`", 
   "title": "#43 : Temple Battlemage's Hat",
   "description": "Artifact Grade : ★★★★★ | Temple Battlemage's Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/43.png",
   "footer": {
     "text": "See !artset 23 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 84" {  "plaintext":"%user% typed `!art 84`", 
   "title": "#84 : Immortal Fire Wing",
   "description": "Artifact Grade : ★★★★★★ | Immortal Ancient Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/84.png",
   "footer": {
     "text": "See !artset 11 | !books | !artbook"
   },

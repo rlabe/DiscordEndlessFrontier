@@ -1,6 +1,7 @@
 .acr "!art 78" {  "plaintext":"%user% typed `!art 78`", 
   "title": "#78 : Gold Dragon's Earrings",
   "description": "Artifact Grade : ★★★★★★ | Gold Dragon's Divine Protection Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/78.png",
   "footer": {
     "text": "See !artset 9 | !books | !artbook"
   },

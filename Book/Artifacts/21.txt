@@ -1,6 +1,7 @@
 .acr "!art 21" {  "plaintext":"%user% typed `!art 21`", 
   "title": "#21 : Champion's Cloak",
   "description": "Artifact Grade : ★★",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/21.png",
   "footer": {
     "text": "See !books | !artbook"
   },

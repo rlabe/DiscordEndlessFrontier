@@ -1,6 +1,7 @@
 .acr "!art 166" {  "plaintext":"%user% typed `!art 166`", 
   "title": "#166 : Harp of Apollo",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Amusement Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/166.png",
   "footer": {
     "text": "See !pet apollo | !artset 44 | !books | !artbook"
   },

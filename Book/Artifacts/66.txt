@@ -1,6 +1,7 @@
 .acr "!art 66" {  "plaintext":"%user% typed `!art 66`", 
   "title": "#66 : Dark Knight's Helmet",
   "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/66.png",
   "footer": {
     "text": "See !artset 7 | !books | !artbook"
   },

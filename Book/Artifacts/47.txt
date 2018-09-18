@@ -1,6 +1,7 @@
 .acr "!art 47" {  "plaintext":"%user% typed `!art 47`", 
   "title": "#47 : Frosting Sword of Dark",
   "description": "Artifact Grade : ★★★★★ | Sword of Spirit of Dark and Light Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/47.png",
   "footer": {
     "text": "See !artset 1 | !books | !artbook"
   },

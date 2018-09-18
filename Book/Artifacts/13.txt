@@ -1,6 +1,7 @@
 .acr "!art 13" {  "plaintext":"%user% typed `!art 13`", 
   "title": "#13 : Mage's Robe",
   "description": "Artifact Grade : ★★ | Mage's Garment Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/13.png",
   "footer": {
     "text": "See !artset 26 | !books | !artbook"
   },

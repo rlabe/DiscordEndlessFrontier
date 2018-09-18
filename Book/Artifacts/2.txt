@@ -1,6 +1,7 @@
 .acr "!art 2" {  "plaintext":"%user% typed `!art 2`", 
   "title": "#2 : Bronze Armor",
   "description": "Artifact Grade : ★ | Bronze Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/2.png",
   "footer": {
     "text": "See !artset 29 | !books | !artbook"
   },

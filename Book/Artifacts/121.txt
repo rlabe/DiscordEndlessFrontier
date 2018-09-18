@@ -1,6 +1,7 @@
 .acr "!art 121" {  "plaintext":"%user% typed `!art 121`", 
   "title": "#121 : Assassin's Helmet",
   "description": "Artifact Grade : ★★★★★ | Underground Guild's Assassin Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/121.png",
   "footer": {
     "text": "See !artset 34 | !books | !artbook"
   },

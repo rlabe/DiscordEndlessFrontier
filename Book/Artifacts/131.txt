@@ -1,6 +1,7 @@
 .acr "!art 131" {  "plaintext":"%user% typed `!art 131`", 
   "title": "#131 : Belial's Hammer",
   "description": "Artifact Grade : ★★★★★★★ | Belial's Hammer set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/131.png",
   "footer": {
     "text": "See !pet bellial | !artset 36 | !books | !artbook"
   },

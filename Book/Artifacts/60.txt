@@ -1,6 +1,7 @@
 .acr "!art 60" {  "plaintext":"%user% typed `!art 60`", 
   "title": "#60 : Necromancer's Boots",
   "description": "Artifact Grade : ★★★★★ | Necromancer's Spirit Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/60.png",
   "footer": {
     "text": "See !artset 5 | !books | !artbook"
   },

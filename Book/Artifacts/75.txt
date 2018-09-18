@@ -1,6 +1,7 @@
 .acr "!art 75" {  "plaintext":"%user% typed `!art 75`", 
   "title": "#75 : Sea Dragon's Pure Necklace",
   "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/75.png",
   "footer": {
     "text": "See !artset 8 | !books | !artbook"
   },

@@ -1,5 +1,6 @@
 .acr "!art 51" {  "plaintext":"%user% typed `!art 51`", 
   "title": "#51 : Bone Wyvern's Helmet",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/51.png",
   "description": "Artifact Grade : ★★★★★ | Bone Wyvern's Arms Set",
   "footer": {
     "text": "See !artset 3 | !books | !artbook"

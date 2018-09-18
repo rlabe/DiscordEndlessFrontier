@@ -1,6 +1,7 @@
 .acr "!art 193" {  "plaintext":"%user% typed `!art 193`", 
   "title": "#193 : Fallen Forest Master's Wand",
   "description": "Artifact Grade : ★★★★★★★ | Legendary Treasures of Forest set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/193.png",
   "footer": {
     "text": "See !pet senior beel | !artset 51 | !books | !artbook"
   },

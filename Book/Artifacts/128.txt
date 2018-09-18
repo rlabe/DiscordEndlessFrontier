@@ -1,6 +1,7 @@
 .acr "!art 128" {  "plaintext":"%user% typed `!art 128`", 
   "title": "#128 : Essence of Negligence",
   "description": "Artifact Grade : ★★★★★★★ | Belial's Hammer set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/128.png",
   "footer": {
     "text": "See !pet skole | !artset 36 | !books | !artbook"
   },

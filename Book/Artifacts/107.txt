@@ -1,6 +1,7 @@
 .acr "!art 107" {  "plaintext":"%user% typed `!art 107`", 
   "title": "#107 : Lord of Darkness's Cloak",
   "description": "Artifact Grade : ★★★★★★ | Lord of Darkness's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/107.png",
   "footer": {
     "text": "See !artset 16 | !books | !artbook"
   },

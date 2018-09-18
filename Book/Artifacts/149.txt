@@ -1,6 +1,7 @@
 .acr "!art 149" {  "plaintext":"%user% typed `!art 149`", 
   "title": "#149 : Boots of Iron Wall",
   "description": "Artifact Grade : ★★★★★★★ | Desert of Legend Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/149.png",
   "footer": {
     "text": "See !pet senior gnome | !artset 40 | !books | !artbook"
   },

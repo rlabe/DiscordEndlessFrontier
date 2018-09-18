@@ -1,6 +1,7 @@
 .acr "!art 32" {  "plaintext":"%user% typed `!art 32`", 
   "title": "#32 : Reinforced Bear Hide Armor",
   "description": "Artifact Grade : ★★★★ | Reinforced Brown Bear Hide Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/32.png",
   "footer": {
     "text": "See !artset 20 | !books | !artbook"
   },

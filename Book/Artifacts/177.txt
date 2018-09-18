@@ -1,6 +1,7 @@
 .acr "!art 177" {  "plaintext":"%user% typed `!art 177`", 
   "title": "#177 : Scissors of Fate",
   "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/177.png",
   "footer": {
     "text": "See !pet skuld | !artset 48 | !books | !artbook"
   },

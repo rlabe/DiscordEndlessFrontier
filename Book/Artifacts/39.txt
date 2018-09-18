@@ -1,6 +1,7 @@
 .acr "!art 39" {  "plaintext":"%user% typed `!art 39`", 
   "title": "#39 : Temple Battlemage's Tunic",
   "description": "Artifact Grade : ★★★★★ | Temple Battlemage's Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/39.png",
   "footer": {
     "text": "See !artset 23 | !books | !artbook"
   },

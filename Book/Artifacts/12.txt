@@ -1,6 +1,7 @@
 .acr "!art 12" {  "plaintext":"%user% typed `!art 12`", 
   "title": "#12 : Sheepskin Helmet",
   "description": "Artifact Grade : ★ | Sheepskin Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/12.png",
   "footer": {
     "text": "See !artset 31 | !books | !artbook"
   },

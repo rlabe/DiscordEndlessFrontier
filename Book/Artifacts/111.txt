@@ -1,6 +1,7 @@
 .acr "!art 111" {  "plaintext":"%user% typed `!art 111`", 
   "title": "#111 : Supernova's Robe",
   "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/111.png",
   "footer": {
     "text": "See !artset 17 | !books | !artbook"
   },

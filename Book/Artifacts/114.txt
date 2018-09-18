@@ -1,6 +1,7 @@
 .acr "!art 114" {  "plaintext":"%user% typed `!art 114`", 
   "title": "#114 : Supernova's Bracelet",
   "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/114.png",
   "footer": {
     "text": "See !artset 17 | !books | !artbook"
   },

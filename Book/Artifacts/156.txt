@@ -1,6 +1,7 @@
 .acr "!art 156" {  "plaintext":"%user% typed `!art 156`", 
   "title": "#156 : Plat Armor of Ares",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Victory Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/156.png",
   "footer": {
     "text": "See !pet ares | !artset 45 | !books | !artbook"
   },

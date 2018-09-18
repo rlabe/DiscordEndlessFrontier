@@ -1,6 +1,7 @@
 .acr "!art 73" {  "plaintext":"%user% typed `!art 73`", 
   "title": "#73 : Sea Dragon's Scale",
   "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/73.png",
   "footer": {
     "text": "See !artset 8 | !books | !artbook"
   },

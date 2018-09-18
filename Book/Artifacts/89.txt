@@ -1,6 +1,7 @@
 .acr "!art 89" {  "plaintext":"%user% typed `!art 89`", 
   "title": "#89 : Ancient Outland Beast's Blunt Force",
   "description": "Artifact Grade : ★★★★★★ | Ancient Outland Beast's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/89.png",
   "footer": {
     "text": "See !artset 13 | !books | !artbook"
   },

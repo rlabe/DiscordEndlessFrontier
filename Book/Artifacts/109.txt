@@ -1,6 +1,7 @@
 .acr "!art 109" {  "plaintext":"%user% typed `!art 109`", 
   "title": "#109 : Supernova's Staff",
   "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/109.png",
   "footer": {
     "text": "See !artset 17 | !books | !artbook"
   },

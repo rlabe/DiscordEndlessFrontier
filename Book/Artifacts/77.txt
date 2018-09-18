@@ -1,6 +1,7 @@
 .acr "!art 77" {  "plaintext":"%user% typed `!art 77`", 
   "title": "#77 : Gold Dragon's Necklace",
   "description": "Artifact Grade : ★★★★★★ | Gold Dragon's Divine Protection Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/77.png",
   "footer": {
     "text": "See !artset 9 | !books | !artbook"
   },

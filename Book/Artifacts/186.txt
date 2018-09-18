@@ -1,6 +1,7 @@
 .acr "!art 186" {  "plaintext":"%user% typed `!art 186`", 
   "title": "#186 : Hell Lord's Bone Armor",
   "description": "Artifact Grade : ★★★★★★★ | Hell Lord's Weapons set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/186.png",
   "footer": {
     "text": "See !pet twin skulls | !artset 50 | !books | !artbook"
   },

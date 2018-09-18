@@ -1,6 +1,7 @@
 .acr "!art 15" {  "plaintext":"%user% typed `!art 15`", 
   "title": "#15 : Watchmen's Steel Hammer",
   "description": "Artifact Grade : ★★",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/15.png",
   "footer": {
     "text": "See !books | !artbook"
   },

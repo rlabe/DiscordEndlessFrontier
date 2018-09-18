@@ -1,6 +1,7 @@
 .acr "!art 168" {  "plaintext":"%user% typed `!art 168`", 
   "title": "#168 : Flaming Mask of Retribution",
   "description": "Artifact Grade : ★★★★★★★ | Legendary Volcanic Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/168.png",
   "footer": {
     "text": "See !pet senior lavark | !artset 46 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 80" {  "plaintext":"%user% typed `!art 80`", 
   "title": "#80 : Boots of Darkness",
   "description": "Artifact Grade : ★★★★★★ | The Ruler of Darkness Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/80.png",
   "footer": {
     "text": "See !artset 10 | !books | !artbook"
   },

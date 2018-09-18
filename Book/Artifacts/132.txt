@@ -1,6 +1,7 @@
 .acr "!art 132" {  "plaintext":"%user% typed `!art 132`", 
   "title": "#132 : Basilisk's Spear",
   "description": "Artifact Grade : ★★★★★★★ | Fire Hell Lord's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/132.png",
   "footer": {
     "text": "See !pet lavark | !artset 37 | !books | !artbook"
   },

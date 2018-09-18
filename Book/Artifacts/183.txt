@@ -1,6 +1,7 @@
 .acr "!art 183" {  "plaintext":"%user% typed `!art 183`", 
   "title": "#183 : Bow of Avalanche",
   "description": "Artifact Grade : ★★★★★★★ | Weapons of Ancient Mythology Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/183.png",
   "footer": {
     "text": "See !pet heimdall | !artset 49 | !books | !artbook"
   },

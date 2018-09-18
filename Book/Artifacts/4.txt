@@ -1,6 +1,7 @@
 .acr "!art 4" {  "plaintext":"%user% typed `!art 4`", 
   "title": "#4 : Beginner's Crystal Staff",
   "description": "Artifact Grade : ★",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/4.png",
   "footer": {
     "text": "See !books | !artbook"
   },

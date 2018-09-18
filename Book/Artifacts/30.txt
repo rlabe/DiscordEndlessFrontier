@@ -1,6 +1,7 @@
 .acr "!art 30" {  "plaintext":"%user% typed `!art 30`", 
   "title": "#30 : Knight Commander's Cloak",
   "description": "Artifact Grade : ★★★ | Knight's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/30.png",
   "footer": {
     "text": "See !artset 33 | !books | !artbook"
   },

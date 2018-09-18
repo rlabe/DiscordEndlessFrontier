@@ -1,6 +1,7 @@
 .acr "!art 153" {  "plaintext":"%user% typed `!art 153`", 
   "title": "#153 : Axe of Gorgos",
   "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/153.png",
   "footer": {
     "text": "See !pet gorgon | !artset 41 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 182" {  "plaintext":"%user% typed `!art 182`", 
   "title": "#182 : Tryving",
   "description": "Artifact Grade : ★★★★★★★ | Weapons of Ancient Mythology Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/182.png",
   "footer": {
     "text": "See !pet tyr | !artset 49 | !books | !artbook"
   },

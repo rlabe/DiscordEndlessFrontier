@@ -1,6 +1,7 @@
 .acr "!art 162" {  "plaintext":"%user% typed `!art 162`", 
   "title": "#162 : Trident of Poseidon",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Authority Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/162.png",
   "footer": {
     "text": "See !pet poseidon | !artset 42 | !books | !artbook"
   },

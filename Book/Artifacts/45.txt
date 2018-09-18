@@ -1,6 +1,7 @@
 .acr "!art 45" {  "plaintext":"%user% typed `!art 45`", 
   "title": "#45 : Master's Lion Hide Boots",
   "description": "Artifact Grade : ★★★★★ | Master's Lion Hide Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/45.png",
   "footer": {
     "text": "See !artset 22 | !books | !artbook"
   },

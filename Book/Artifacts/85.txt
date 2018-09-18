@@ -1,6 +1,7 @@
 .acr "!art 85" {  "plaintext":"%user% typed `!art 85`", 
   "title": "#85 : Laurel Bow of Abundance",
   "description": "Artifact Grade : ★★★★★★ | Legacy of Abundance Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/85.png",
   "footer": {
     "text": "See !artset 12 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 188" {  "plaintext":"%user% typed `!art 188`", 
   "title": "#188 : Hell Lord's Horned Skull",
   "description": "Artifact Grade : ★★★★★★★ | Hell Lord's Weapons set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/188.png",
   "footer": {
     "text": "See !pet amaymon | !artset 50 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 158" {  "plaintext":"%user% typed `!art 158`", 
   "title": "#158 : Hera's Ring",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Authority Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/158.png",
   "footer": {
     "text": "See !pet hera | !artset 42 | !books | !artbook"
   },

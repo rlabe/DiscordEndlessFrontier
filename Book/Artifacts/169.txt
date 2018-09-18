@@ -1,6 +1,7 @@
 .acr "!art 169" {  "plaintext":"%user% typed `!art 169`", 
   "title": "#169 : Flaming Armor of Retribution",
   "description": "Artifact Grade : ★★★★★★★ | Legendary Volcanic Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/169.png",
   "footer": {
     "text": "See !pet senior hellyme | !artset 46 | !books | !artbook"
   },

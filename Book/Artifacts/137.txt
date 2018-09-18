@@ -1,6 +1,7 @@
 .acr "!art 137" {  "plaintext":"%user% typed `!art 137`", 
   "title": "#137 : Blue Dragon Armor",
   "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/137.png",
   "footer": {
     "text": "See !pet blue dragon | !artset 38 | !books | !artbook"
   },

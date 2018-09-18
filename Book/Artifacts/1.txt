@@ -1,6 +1,7 @@
 .acr "!art 1" {  "plaintext":"%user% typed `!art 1`", 
   "title": "#1 : Magic Pupil's Robe",
   "description": "Artifact Grade : ★ | Magic Pupil's Garment Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/1.png",
   "footer": {
     "text": "See !artset 27 | !books | !artbook"
   },

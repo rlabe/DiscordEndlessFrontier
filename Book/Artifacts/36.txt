@@ -1,6 +1,7 @@
 .acr "!art 36" {  "plaintext":"%user% typed `!art 36`", 
   "title": "#36 : Warlock's Shoes",
   "description": "Artifact Grade : ★★★★ | Warlock's Garment Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/36.png",
   "footer": {
     "text": "See !artset 21 | !books | !artbook"
   },

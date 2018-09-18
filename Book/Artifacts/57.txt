@@ -1,6 +1,7 @@
 .acr "!art 57" {  "plaintext":"%user% typed `!art 57`", 
   "title": "#57 : Necromancer's Staff",
   "description": "Artifact Grade : ★★★★★ | Necromancer's Spirit Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/57.png",
   "footer": {
     "text": "See !artset 5 | !books | !artbook"
   },

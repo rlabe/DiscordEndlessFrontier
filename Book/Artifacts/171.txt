@@ -1,6 +1,7 @@
 .acr "!art 171" {  "plaintext":"%user% typed `!art 171`", 
   "title": "#171 : Flaming Cloak of Retribution",
   "description": "Artifact Grade : ★★★★★★★ | Legendary Volcanic Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/171.png",
   "footer": {
     "text": "See !pet senior bahat | !artset 46 | !books | !artbook"
   },

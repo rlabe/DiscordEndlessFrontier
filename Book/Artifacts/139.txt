@@ -1,6 +1,7 @@
 .acr "!art 139" {  "plaintext":"%user% typed `!art 139`", 
   "title": "#139 : Black Turtle Shield",
   "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/139.png",
   "footer": {
     "text": "See !pet black tortoise | !artset 38 | !books | !artbook"
   },

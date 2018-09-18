@@ -1,6 +1,7 @@
 .acr "!art 172" {  "plaintext":"%user% typed `!art 172`", 
   "title": "#172 : Loki's Trickster Necklace",
   "description": "Artifact Grade : ★★★★★★★ | Warning of Ragnarok Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/172.png",
   "footer": {
     "text": "See !pet loki | !artset 47 | !books | !artbook"
   },

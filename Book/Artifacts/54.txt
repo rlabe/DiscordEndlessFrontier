@@ -1,6 +1,7 @@
 .acr "!art 54" {  "plaintext":"%user% typed `!art 54`", 
   "title": "#54 : Helmet of the Ghost of Snow Mountain",
   "description": "Artifact Grade : ★★★★★ | Ghost of Snow Mountain's Battle Uniform Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/54.png",
   "footer": {
     "text": "See !artset 4 | !books | !artbook"
   },

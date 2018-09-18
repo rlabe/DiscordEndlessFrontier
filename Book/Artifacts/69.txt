@@ -1,6 +1,7 @@
 .acr "!art 69" {  "plaintext":"%user% typed `!art 69`", 
   "title": "#69 : Dark Knight's Cloak",
   "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/69.png",
   "footer": {
     "text": "See !artset 7 | !books | !artbook"
   },

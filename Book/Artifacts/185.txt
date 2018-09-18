@@ -1,6 +1,7 @@
 .acr "!art 185" {  "plaintext":"%user% typed `!art 185`", 
   "title": "#185 : Hell Lord's Bone Boots",
   "description": "Artifact Grade : ★★★★★★★ | Hell Lord's Weapons set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/185.png",
   "footer": {
     "text": "See !pet horn-boar | !artset 50 | !books | !artbook"
   },

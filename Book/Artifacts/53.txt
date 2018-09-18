@@ -1,6 +1,7 @@
 .acr "!art 53" {  "plaintext":"%user% typed `!art 53`", 
   "title": "#53 : Bone Wyvern's Boots",
   "description": "Artifact Grade : ★★★★★ | Bone Wyvern's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/53.png",
   "footer": {
     "text": "See !artset 3 | !books | !artbook"
   },

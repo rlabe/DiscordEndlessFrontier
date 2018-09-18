@@ -1,6 +1,7 @@
-.acr "!art 23" {  "plaintext":"%user% typed `!art 23`", 
+acr "!art 23" {  "plaintext":"%user% typed `!art 23`", 
   "title": "#23 : Wolf Hide Armor",
   "description": "Artifact Grade : ★★★ | Wolf Hide Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/23.png",
   "footer": {
     "text": "See !artset 32 | !books | !artbook"
   },

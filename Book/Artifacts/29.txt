@@ -1,6 +1,7 @@
 .acr "!art 29" {  "plaintext":"%user% typed `!art 29`", 
   "title": "#29 : Wolf Hide Boots",
   "description": "Artifact Grade : ★★★ | Wolf Hide Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/29.png",
   "footer": {
     "text": "See !artset 32 | !books | !artbook"
   },

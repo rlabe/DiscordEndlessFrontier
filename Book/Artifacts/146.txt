@@ -1,6 +1,7 @@
 .acr "!art 146" {  "plaintext":"%user% typed `!art 146`", 
   "title": "#146 : Poison-Impervious Cloak",
   "description": "Artifact Grade : ★★★★★★★ | Desert of Legend Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/146.png",
   "footer": {
     "text": "See !pet senior skole | !artset 40 | !books | !artbook"
   },

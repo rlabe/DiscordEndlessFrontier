@@ -1,6 +1,7 @@
 .acr "!art 82" {  "plaintext":"%user% typed `!art 82`", 
   "title": "#82 : Fire Dragon's Immortal Sword",
   "description": "Artifact Grade : ★★★★★★ | Immortal Ancient Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/82.png",
   "footer": {
     "text": "See !artset 11 | !books | !artbook"
   },

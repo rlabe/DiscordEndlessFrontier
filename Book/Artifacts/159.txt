@@ -1,6 +1,7 @@
 .acr "!art 159" {  "plaintext":"%user% typed `!art 159`", 
   "title": "#159 : Winged Boots of Hermes",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Fertility Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/159.png",
   "footer": {
     "text": "See !pet hermes | !artset 43 | !books | !artbook"
   },

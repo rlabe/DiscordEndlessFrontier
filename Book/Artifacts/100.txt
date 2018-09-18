@@ -1,6 +1,7 @@
 .acr "!art 100" {  "plaintext":"%user% typed `!art 100`", 
   "title": "#100 : Frost Knight's Boots",
   "description": "Artifact Grade : ★★★★★★ | Frost Knight's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/100.png",
   "footer": {
     "text": "See !artset 15 | !books | !artbook"
   },

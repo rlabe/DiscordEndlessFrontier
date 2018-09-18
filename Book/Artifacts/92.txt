@@ -1,6 +1,7 @@
 .acr "!art 92" {  "plaintext":"%user% typed `!art 92`", 
   "title": "#92 : Ancient Outland Beast's Boots",
   "description": "Artifact Grade : ★★★★★★ | Ancient Outland Beast's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/92.png",
   "footer": {
     "text": "See !artset 13 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 58" {  "plaintext":"%user% typed `!art 58`", 
   "title": "#58 : Necromancer's Helmet",
   "description": "Artifact Grade : ★★★★★ | Necromancer's Spirit Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/58.png",
   "footer": {
     "text": "See !artset 5 | !books | !artbook"
   },

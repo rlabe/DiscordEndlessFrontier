@@ -1,6 +1,7 @@
 .acr "!art 7" {  "plaintext":"%user% typed `!art 7`", 
   "title": "#7 : Magic Pupil's Shoes",
   "description": "Artifact Grade : ★ | Magic Pupil's Garment Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/7.png",
   "footer": {
     "text": "See !artset 27 | !books | !artbook"
   },

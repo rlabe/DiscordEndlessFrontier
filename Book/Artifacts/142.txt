@@ -1,6 +1,7 @@
 .acr "!art 142" {  "plaintext":"%user% typed `!art 142`", 
   "title": "#142 : Undead Hero's Staff",
   "description": "Artifact Grade : ★★★★★★★ | Heroes Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/142.png",
   "footer": {
     "text": "See !pet undead guardian | !artset 39 | !books | !artbook"
   },

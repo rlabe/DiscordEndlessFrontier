@@ -1,6 +1,7 @@
 .acr "!art 120" {  "plaintext":"%user% typed `!art 120`", 
   "title": "#120 : Arrow of Shrine of Justice",
   "description": "Artifact Grade : ★★★★★★ | Shrine of Justice Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/120.png",
   "footer": {
     "text": "See !artset 18 | !books | !artbook"
   },

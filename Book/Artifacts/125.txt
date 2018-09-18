@@ -1,6 +1,7 @@
 .acr "!art 125" {  "plaintext":"%user% typed `!art 125`", 
   "title": "#125 : Secret Book 2",
   "description": "Artifact Grade : ★★★★★ | Ancient Battle Secret Book Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/125.png",
   "footer": {
     "text": "See !artset 35 | !books | !artbook"
   },

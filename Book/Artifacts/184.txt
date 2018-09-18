@@ -1,6 +1,7 @@
 .acr "!art 184" {  "plaintext":"%user% typed `!art 184`", 
   "title": "#184 : Hell Lord's Winged Cape",
   "description": "Artifact Grade : ★★★★★★★ | Hell Lord's Weapons set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/184.png",
   "footer": {
     "text": "See !pet heliffin | !artset 50 | !books | !artbook"
   },

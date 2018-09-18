@@ -1,6 +1,7 @@
 .acr "!art 94" {  "plaintext":"%user% typed `!art 94`", 
   "title": "#94 : King of Beast's Helmet",
   "description": "Artifact Grade : ★★★★★★ | King of Battle Beast's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/94.png",
   "footer": {
     "text": "See !artset 14 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 167" {  "plaintext":"%user% typed `!art 167`", 
   "title": "#167 : Statue of Goddess of Fertility",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Fertility Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/167.png",
   "footer": {
     "text": "See !pet demeter | !artset 43 | !books | !artbook"
   },

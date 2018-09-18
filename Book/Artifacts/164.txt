@@ -1,6 +1,7 @@
 .acr "!art 164" {  "plaintext":"%user% typed `!art 164`", 
   "title": "#164 : Potion of Dionysus",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Amusement Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/164.png",
   "footer": {
     "text": "See !pet dionysus | !artset 44 | !books | !artbook"
   },

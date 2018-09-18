@@ -1,6 +1,7 @@
 .acr "!art 71" {  "plaintext":"%user% typed `!art 71`", 
   "title": "#71 : Sea Dragon's Claw",
   "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/71.png",
   "footer": {
     "text": "See !artset 8 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 130" {  "plaintext":"%user% typed `!art 130`", 
   "title": "#130 : Essence of Arrogance",
   "description": "Artifact Grade : ★★★★★★★ | Belial's Hammer set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/130.png",
   "footer": {
     "text": "See !pet gnome | !artset 36 | !books | !artbook"
   },

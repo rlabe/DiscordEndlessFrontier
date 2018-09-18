@@ -1,6 +1,7 @@
 .acr "!art 20" {  "plaintext":"%user% typed `!art 20`", 
   "title": "#20 : Plate Boots",
   "description": "Artifact Grade : ★★ | Plate Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/20.png",
   "footer": {
     "text": "See !artset 28 | !books | !artbook"
   },

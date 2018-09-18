@@ -1,6 +1,7 @@
 .acr "!art 68" {  "plaintext":"%user% typed `!art 68`", 
   "title": "#68 : Dark Knight's Boots",
   "description": "Artifact Grade : ★★★★★ | Dark Knight's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/68.png",
   "footer": {
     "text": "See !artset 7 | !books | !artbook"
   },

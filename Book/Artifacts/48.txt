@@ -1,6 +1,7 @@
 .acr "!art 48" {  "plaintext":"%user% typed `!art 48`", 
   "title": "#48 : Blazing Sword of Light",
   "description": "Artifact Grade : ★★★★★ | Sword of Spirit of Dark and Light Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/48.png",
   "footer": {
     "text": "See !artset 1 | !books | !artbook"
   },

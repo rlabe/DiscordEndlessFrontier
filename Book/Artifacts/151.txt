@@ -1,6 +1,7 @@
 .acr "!art 151" {  "plaintext":"%user% typed `!art 151`", 
   "title": "#151 : Taratoad's Wand",
   "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/151.png",
   "footer": {
     "text": "See !pet tarad | !artset 41 | !books | !artbook"
   },

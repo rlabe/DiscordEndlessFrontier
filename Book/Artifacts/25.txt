@@ -1,6 +1,7 @@
 .acr "!art 25" {  "plaintext":"%user% typed `!art 25`", 
   "title": "#25 : Watch Leader's Steel Sword",
   "description": "Artifact Grade : ★★★",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/25.png",
   "footer": {
     "text": "See !books | !artbook"
   },

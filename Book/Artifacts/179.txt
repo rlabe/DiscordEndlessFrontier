@@ -1,6 +1,7 @@
 .acr "!art 179" {  "plaintext":"%user% typed `!art 179`", 
   "title": "#179 : Horn of Warning",
   "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/179.png",
   "footer": {
     "text": "See !pet skadi | !artset 48 | !books | !artbook"
   },

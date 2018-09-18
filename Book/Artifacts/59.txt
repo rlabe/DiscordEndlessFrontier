@@ -1,6 +1,7 @@
 .acr "!art 59" {  "plaintext":"%user% typed `!art 59`", 
   "title": "#59 : Necromancer's Armor",
   "description": "Artifact Grade : ★★★★★ | Necromancer's Spirit Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/59.png",
   "footer": {
     "text": "See !artset 5 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 152" {  "plaintext":"%user% typed `!art 152`", 
   "title": "#152 : Nerugal's Spear",
   "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/152.png",
   "footer": {
     "text": "See !pet neru | !artset 41 | !books | !artbook"
   },

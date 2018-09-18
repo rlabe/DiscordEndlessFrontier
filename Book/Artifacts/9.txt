@@ -1,6 +1,7 @@
 .acr "!art 9" {  "plaintext":"%user% typed `!art 9`", 
   "title": "#9 : Mercenary's Cloak",
   "description": "Artifact Grade : ★ | Mercenary's Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/9.png",
   "footer": {
     "text": "See !artset 30 | !books | !artbook"
   },

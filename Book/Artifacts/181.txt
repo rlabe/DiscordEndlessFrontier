@@ -1,6 +1,7 @@
 .acr "!art 181" {  "plaintext":"%user% typed `!art 181`", 
   "title": "#181 : Mistilteinn",
   "description": "Artifact Grade : ★★★★★★★ | Weapons of Ancient Mythology Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/181.png",
   "footer": {
     "text": "See !pet baldur | !artset 49 | !books | !artbook"
   },

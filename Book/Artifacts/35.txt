@@ -1,6 +1,7 @@
 .acr "!art 35" {  "plaintext":"%user% typed `!art 35`", 
   "title": "#35 : Warlock's Hat",
   "description": "Artifact Grade : ★★★★ | Warlock's Garment Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/35.png",
   "footer": {
     "text": "See !artset 21 | !books | !artbook"
   },

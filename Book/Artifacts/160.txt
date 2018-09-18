@@ -1,6 +1,7 @@
 .acr "!art 160" {  "plaintext":"%user% typed `!art 160`", 
   "title": "#160 : Bow of Artemis",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Fertility Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/160.png",
   "footer": {
     "text": "See !pet artemis | !artset 43 | !books | !artbook"
   },

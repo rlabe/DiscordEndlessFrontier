@@ -1,6 +1,7 @@
 .acr "!art 154" {  "plaintext":"%user% typed `!art 154`", 
   "title": "#154 : Beelzebub's Sword",
   "description": "Artifact Grade : ★★★★★★★ | Plague's Cataclysm Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/154.png",
   "footer": {
     "text": "See !pet beel | !artset 41 | !books | !artbook"
   },

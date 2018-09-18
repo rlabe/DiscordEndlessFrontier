@@ -1,6 +1,7 @@
 .acr "!art 38" {  "plaintext":"%user% typed `!art 38`", 
   "title": "#38 : Royalty's Cloak",
   "description": "Artifact Grade : ★★★★",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/38.png",
   "footer": {
     "text": "See !books | !artbook"
   },

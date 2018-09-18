@@ -1,6 +1,7 @@
 .acr "!art 112" {  "plaintext":"%user% typed `!art 112`", 
   "title": "#112 : Supernova's Shoes",
   "description": "Artifact Grade : ★★★★★★ | Descend of Supernova Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/112.png",
   "footer": {
     "text": "See !artset 17 | !books | !artbook"
   },

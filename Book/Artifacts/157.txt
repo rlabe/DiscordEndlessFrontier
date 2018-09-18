@@ -1,6 +1,7 @@
 .acr "!art 157" {  "plaintext":"%user% typed `!art 157`", 
   "title": "#157 : Athena's Shield",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Victory Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/157.png",
   "footer": {
     "text": "See !pet athena | !artset 45 | !books | !artbook"
   },

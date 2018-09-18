@@ -1,6 +1,7 @@
 .acr "!art 64" {  "plaintext":"%user% typed `!art 64`", 
   "title": "#64 : Ancient High Priest's Shoes",
   "description": "Artifact Grade : ★★★★★ | Ancient High Priest's Garment Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/64.png",
   "footer": {
     "text": "See !artset 6 | !books | !artbook"
   },

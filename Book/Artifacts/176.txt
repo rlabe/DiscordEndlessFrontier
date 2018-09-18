@@ -1,6 +1,7 @@
 .acr "!art 176" {  "plaintext":"%user% typed `!art 176`", 
   "title": "#176 : Wheel of Fate",
   "description": "Artifact Grade : ★★★★★★★ | Treasures of Gods Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/176.png",
   "footer": {
     "text": "See !pet vernandi | !artset 48 | !books | !artbook"
   },

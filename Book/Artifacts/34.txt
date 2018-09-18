@@ -1,6 +1,7 @@
 .acr "!art 34" {  "plaintext":"%user% typed `!art 34`", 
   "title": "#34 : Imperial Captain's Alloy Greatsword",
   "description": "Artifact Grade : ★★★★ | Royal Guard's Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/34.png",
   "footer": {
     "text": "See !artset 19 | !books | !artbook"
   },

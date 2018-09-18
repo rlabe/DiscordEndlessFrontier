@@ -1,6 +1,7 @@
 .acr "!art 145" {  "plaintext":"%user% typed `!art 145`", 
   "title": "#145 : Horuss Greatsword",
   "description": "Artifact Grade : ★★★★★★★ | Outland Gods Treasure Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/145.png",
   "footer": {
     "text": "See !pet cleo | !artset 38 | !books | !artbook"
   },

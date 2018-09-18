@@ -1,6 +1,7 @@
 .acr "!art 90" {  "plaintext":"%user% typed `!art 90`", 
   "title": "#90 : Ancient Outland Beast's Helmet",
   "description": "Artifact Grade : ★★★★★★ | Ancient Outland Beast's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/90.png",
   "footer": {
     "text": "See !artset 13 | !books | !artbook"
   },

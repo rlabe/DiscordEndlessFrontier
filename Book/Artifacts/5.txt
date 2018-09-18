@@ -1,6 +1,7 @@
 .acr "!art 5" {  "plaintext":"%user% typed `!art 5`", 
   "title": "#5 : Magic Pupil's Hat",
   "description": "Artifact Grade : ★ | Magic Pupil's Garment Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/5.png",
   "footer": {
     "text": "See !artset 27 | !books | !artbook"
   },

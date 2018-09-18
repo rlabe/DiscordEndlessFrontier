@@ -1,6 +1,7 @@
 .acr "!art 3" {  "plaintext":"%user% typed `!art 3`", 
   "title": "#3 : Mercenary's Hammer",
   "description": "Artifact Grade : ★ | Mercenary's Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/3.png",
   "footer": {
     "text": "See !artset 30 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 140" {  "plaintext":"%user% typed `!art 140`", 
   "title": "#140 : Human Hero's Sword",
   "description": "Artifact Grade : ★★★★★★★ | Heroes Weapon Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/140.png",
   "footer": {
     "text": "See !pet human guardian | !artset 39 | !books | !artbook"
   },

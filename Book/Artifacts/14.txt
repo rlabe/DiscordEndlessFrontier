@@ -1,6 +1,7 @@
 .acr "!art 14" {  "plaintext":"%user% typed `!art 14`", 
   "title": "#14 : Plate Armor",
   "description": "Artifact Grade : ★★ | Plate Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/14.png",
   "footer": {
     "text": "See !artset 28 | !books | !artbook"
   },

@@ -1,6 +1,7 @@
 .acr "!art 99" {  "plaintext":"%user% typed `!art 99`", 
   "title": "#99 : Frost Knight's Armor",
   "description": "Artifact Grade : ★★★★★★ | Frost Knight's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/99.png",
   "footer": {
     "text": "See !artset 15 | !books | !artbook"
   },

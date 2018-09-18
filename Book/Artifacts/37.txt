@@ -1,6 +1,7 @@
 .acr "!art 37" {  "plaintext":"%user% typed `!art 37`", 
   "title": "#37 : Reinforced Bear Hide Boots",
   "description": "Artifact Grade : ★★★★ | Reinforced Brown Bear Hide Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/37.png",
   "footer": {
     "text": "See !artset 20 | !books | !artbook"
   },

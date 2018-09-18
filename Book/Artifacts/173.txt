@@ -1,6 +1,7 @@
 .acr "!art 173" {  "plaintext":"%user% typed `!art 173`", 
   "title": "#173 : Freya's Necklace",
   "description": "Artifact Grade : ★★★★★★★ | Warning of Ragnarok Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/173.png",
   "footer": {
     "text": "See !pet freya | !artset 47 | !books | !artbook"
   },

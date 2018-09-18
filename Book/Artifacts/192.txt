@@ -1,6 +1,7 @@
 .acr "!art 192" {  "plaintext":"%user% typed `!art 192`", 
   "title": "#192 : Fallen Forest Master's Shield",
   "description": "Artifact Grade : ★★★★★★★ | Legendary Treasures of Forest set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/192.png",
   "footer": {
     "text": "See !pet senior gorgon | !artset 51 | !books | !artbook"
   },

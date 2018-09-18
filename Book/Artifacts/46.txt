@@ -1,6 +1,7 @@
 .acr "!art 46" {  "plaintext":"%user% typed `!art 46`", 
   "title": "#46 : Great General's Cloak",
   "description": "Artifact Grade : ★★★★★ | Great General's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/46.png",
   "footer": {
     "text": "See !artset 24 | !books | !artbook"
   },

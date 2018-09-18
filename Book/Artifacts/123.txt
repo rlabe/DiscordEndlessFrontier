@@ -1,6 +1,7 @@
 .acr "!art 123" {  "plaintext":"%user% typed `!art 123`", 
   "title": "#123 : Assassin's Boots",
   "description": "Artifact Grade : ★★★★★ | Underground Guild's Assassin Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/123.png",
   "footer": {
     "text": "See !artset 34 | !books | !artbook"
   },

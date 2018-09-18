@@ -1,6 +1,7 @@
 .acr "!art 102" {  "plaintext":"%user% typed `!art 102`", 
   "title": "#102 : Frost Knight's Shield",
   "description": "Artifact Grade : ★★★★★★ | Frost Knight's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/102.png",
   "footer": {
     "text": "See !artset 15 | !books | !artbook"
   },

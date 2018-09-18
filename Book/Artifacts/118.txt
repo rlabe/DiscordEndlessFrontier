@@ -1,6 +1,7 @@
 .acr "!art 118" {  "plaintext":"%user% typed `!art 118`", 
   "title": "#118 : Shoes of Shrine of Justice",
   "description": "Artifact Grade : ★★★★★★ | Shrine of Justice Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/118.png",
   "footer": {
     "text": "See !artset 18 | !books | !artbook"
   },

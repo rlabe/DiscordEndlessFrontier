@@ -1,6 +1,7 @@
 .acr "!art 165" {  "plaintext":"%user% typed `!art 165`", 
   "title": "#165 : Mirror of Venus",
   "description": "Artifact Grade : ★★★★★★★ | Relic of Amusement Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/165.png",
   "footer": {
     "text": "See !pet aphrodite | !artset 44 | !books | !artbook"
   },

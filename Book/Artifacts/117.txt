@@ -1,6 +1,7 @@
 .acr "!art 117" {  "plaintext":"%user% typed `!art 117`", 
   "title": "#117 : Armor of Shrine of Justice",
   "description": "Artifact Grade : ★★★★★★ | Shrine of Justice Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/117.png",
   "footer": {
     "text": "See !artset 18 | !books | !artbook"
   },

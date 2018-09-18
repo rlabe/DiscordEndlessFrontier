@@ -1,6 +1,7 @@
 .acr "!art 18" {  "plaintext":"%user% typed `!art 18`", 
   "title": "#18 : Plate Helm",
   "description": "Artifact Grade : ★★ | Plate Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/18.png",
   "footer": {
     "text": "See !artset 28 | !books | !artbook"
   },

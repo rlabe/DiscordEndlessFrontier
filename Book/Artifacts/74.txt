@@ -1,6 +1,7 @@
 .acr "!art 74" {  "plaintext":"%user% typed `!art 74`", 
   "title": "#74 : Sea Dragon's Boots",
   "description": "Artifact Grade : ★★★★★ | Sea Dragon's Arms Set",
+  "thumbnail": "http://www.endlessfrontierdata.com/images/artifacts/74.png",
   "footer": {
     "text": "See !artset 8 | !books | !artbook"
   },
