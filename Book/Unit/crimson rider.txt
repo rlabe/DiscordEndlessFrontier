@@ -1,5 +1,5 @@
 .acr "!unit crimson rider" {"plaintext":"%user% typed `!unit Crimson Rider`", "title":"Senior Crimson Rider","description":"★★★★★★ | Air Unit | :ap::uh::uf::ta::h12:","footer":{"text":"See !pet little hawk | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/191.png","fields":[
-{"name":"Abilities","value":"```+ Normal Attack: Fires multiple arrows, attacking multiple enemies. Only attacks units taht can attack air units.
+{"name":"Abilities","value":"```+ Normal Attack: Fires multiple arrows, attacking multiple enemies. Only attacks units that can attack air units.
 + Skill Attack: Fires multiple fire arrows that deal damage and burn enemies. Enemies affected by burn takes additional damage for a certain duration.
 + Special Ability 1: Increases basic game speed by 8%, movement speed of human units by 7% and attack range by 6%.
 + Special Ability 2: Appears near the enemies at its first appearance, and casts buff to increase its own movement speed and attack speed.
