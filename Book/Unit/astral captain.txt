@@ -1,11 +1,11 @@
 .acr "!unit astral captain" {"plaintext":"%user% typed `!unit astral captain`", "title":"Senior Astral Captain","description":"★★★★★★ | Ground Unit | :ap::ue::uf::dc::ta::h12:","footer":{"text":"See !pet foxy | !unitskill astral captain | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/193.png","fields":[
 {"name":"Abilities","value":"```+ Normal Attack: Orders AI to attack multiple enemies with its magic cannon. Enemies that are attacked are stunned for a certain duration. 
-+ Skill Attack: Orders an airhsiop for aerial support. The airship fires multiple missiles which blow enemy away. 
-+ Special Ability 1: Increases the game speed by 8%,increases movement speed of Elf units by 7%, attack range by 6%. 
++ Skill Attack: Orders an airhsip for aerial support. The airship fires multiple missiles which blow enemy away. 
++ Special Ability 1: Increases the game speed by 8%, increases movement speed of Elf units by 7%, and attack range by 6%. 
 + Special Ability 2: Appears near the enemies at its first appearance, and casts buff to increase the its own movement speed and attack speed. 
 + Special Ability 3: Unaffected by attacks by terrain above stage 10,000. 
-+ Special Ability 4: Detects stealth)cloacked) units. 
-+ Special Ability 5: Never gets disturbed by enemy's attacks. Never gets frozen. never gets knocked back.
++ Special Ability 4: Detects stealth(cloacked) units. 
++ Special Ability 5: Never gets disturbed by enemy's attacks. Never gets frozen. Never gets knocked back.
 ```"},
 {"name":"Passive Abilities",
 "value":"```+ Airship VIP: Airship fuel purchase costs are reduced by 1% for each 5-star Astral Captain and 2% for each 6-star Astral Captain. Applied even when in the time shop and purchase cost reductions cannot exceed 20%.
