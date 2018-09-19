@@ -1,0 +1,37 @@
+.acr "!sh 16-15" {
+  "plaintext":"%user% typed `!sh 16-15",
+  "title": "Spirit Highlands stage 16-15",
+  "description": "3 fragments of Dark Snake",
+  "footer": {
+    "text": "See !pet "Dark Snake"
+  },
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/50.png",
+  "fields": [
+    {
+      "name": "Enemies",
+      "value": "1 x Infantery Sr",
+      "inline": false
+    },
+    {
+      "name": "Solution 1",
+      "value": "EVERYTHING",
+      "inline": false
+    },
+    {
+      "name": "Solution 2",
+      "value": "EVERYTHING",
+      "inline": false
+    },
+    {
+      "name": "Solution 3",
+     "value": "EVERYTHING",
+     "inline": false
+    },
+    {
+      "name": "Solution 4",
+      "value": "EVERYTHING",
+      "inline": false
+    }
+  ],
+  "color": 10554123
+}

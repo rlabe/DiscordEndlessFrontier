@@ -1,0 +1,37 @@
+.acr "!sh 1-20" {
+  "plaintext":"%user% typed `!sh 1-20",
+  "title": "Spirit Highlands stage 1-20",
+  "description": "3 fragments of Piggy",
+  "footer": {
+    "text": "See !pet "Piggy"
+  },
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/8.png",
+  "fields": [
+    {
+      "name": "Enemies",
+      "value": "1 x Infantery Sr",
+      "inline": false
+    },
+    {
+      "name": "Solution 1",
+      "value": "EVERYTHING",
+      "inline": false
+    },
+    {
+      "name": "Solution 2",
+      "value": "EVERYTHING",
+      "inline": false
+    },
+    {
+      "name": "Solution 3",
+     "value": "EVERYTHING",
+     "inline": false
+    },
+    {
+      "name": "Solution 4",
+      "value": "EVERYTHING",
+      "inline": false
+    }
+  ],
+  "color": 10554123
+}

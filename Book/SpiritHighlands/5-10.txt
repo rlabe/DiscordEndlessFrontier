@@ -1,0 +1,37 @@
+.acr "!sh 5-10" {
+  "plaintext":"%user% typed `!sh 5-10",
+  "title": "Spirit Highlands stage 5-10",
+  "description": "3 fragments of Joker",
+  "footer": {
+    "text": "See !pet "Joker"
+  },
+  "thumbnail": "http://www.endlessfrontierdata.com/images/pets/7.png",
+  "fields": [
+    {
+      "name": "Enemies",
+      "value": "1 x Infantery Sr",
+      "inline": false
+    },
+    {
+      "name": "Solution 1",
+      "value": "EVERYTHING",
+      "inline": false
+    },
+    {
+      "name": "Solution 2",
+      "value": "EVERYTHING",
+      "inline": false
+    },
+    {
+      "name": "Solution 3",
+     "value": "EVERYTHING",
+     "inline": false
+    },
+    {
+      "name": "Solution 4",
+      "value": "EVERYTHING",
+      "inline": false
+    }
+  ],
+  "color": 10554123
+}
