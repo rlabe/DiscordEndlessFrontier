@@ -1,4 +1,4 @@
-.acr "!unit rangda" {"plaintext":"%user% typed `!unit Rangda`", "title":"Senior Rangda","description":"★★★★★★ | Ground Unit | :ap::uo::uf::ta::dc::hn: Gen 11","footer":{"text":"See !pet leyak | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/189.png","fields":[
+.acr "!unit crimson rider" {"plaintext":"%user% typed `!unit Crimson Rider`", "title":"Senior Crimson Rider","description":"★★★★★★ | Air Unit | :ap::uh::uf::ta::h12:","footer":{"text":"See !pet leyak | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/189.png","fields":[
 {"name":"Abilities","value":"```+ Normal Attack: Throws a frozen spear at an enemy. Upon impact, the spear splits into three smaller spears which deal damage to other enemies and has a slight chance of slowing their movement speed.
 + Skill Attack: Summons a huge ice crystal and throws it at an enemy. The ice crystal throws small ice fragments which damage enemies until it disappears. Has a slight chance to freeze enemies..
 + Special Ability 1: Increases basic game speed by 8%, increases the movement speed of orc units by 7% and attack range of orc units by 6%.
