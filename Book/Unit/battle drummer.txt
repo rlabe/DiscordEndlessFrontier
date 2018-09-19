@@ -1,4 +1,4 @@
-.acr "!unit battle drummer" {"plaintext":"%user% typed `!unit battle drummer`", "title":"Senior Battle Drummer","description":"★★★★★★ | Ground Unit | :ap::uo::um::ta::hn: Gen 2","footer":{"text":"See !pet boom boom | !unitskill battle drummer | !books | !unitbook"},"thumbnail":"http://endlessfrontierdata.com/images/units/103.png","fields":[{"name":"Abilities","value":"```+ General Attack : None
+.acr "!unit battle drummer" {"plaintext":"%user% typed `!unit battle drummer`", "title":"Senior Battle Drummer","description":"★★★★★★ | Ground Unit | :ap::uo::um::ta::hn: Gen 2","footer":{"text":"See !pet boom boom | !unitskill battle drummer | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/103.png","fields":[{"name":"Abilities","value":"```+ General Attack : None
 + Skill Attack : None
 + Special Ability 1 : increase the basic speed of the game by 5% ( If double speed applied, the game speed increases by 2.1 times, Cumulative )
 + Special Ability 2 : increase the critical strike chance of all units by 10%
