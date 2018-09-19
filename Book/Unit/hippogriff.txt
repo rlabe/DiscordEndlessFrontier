@@ -1,4 +1,4 @@
-.acr "!unit hippogriff" {"plaintext":"%user% typed `!unit hippogriff`", "title":"Senior Hippogriff","description":"★★★★★★ | Air Unit | :ap::ue::um::ta::hn: Gen 8","footer":{"text":"See !pet hippong | !unitskill hippogriff | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/161.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Throws spear that slows enemies.
+.acr "!unit hippogriff" {"plaintext":"%user% typed `!unit hippogriff`", "title":"Senior Hippogriff","description":"★★★★★★ | Air Unit | :ap::ue::um::ta::h8:","footer":{"text":"See !pet hippong | !unitskill hippogriff | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/161.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Throws spear that slows enemies.
 + Skill Attack: Launch barrage of feathers to slow and knock-back enemies.
 + Special Ability 1: Increases the basic speed of game by 8%.
 + Special Ability 2: Increases elf unit movement speed by 6% and attack range by 7%.

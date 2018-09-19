@@ -1,4 +1,4 @@
-.acr "!unit naga" {"plaintext":"%user% typed `!unit naga`", "title":"Senior Naga","description":"★★★★★★ | Ground Unit | :ap::uo::uf::ta::dc::hn: Gen 6","footer":{"text":"See !pet seahorse | !unitskill naga | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/141.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Attacks enemies with multiple arrows, slowing their movement speed.
+.acr "!unit naga" {"plaintext":"%user% typed `!unit naga`", "title":"Senior Naga","description":"★★★★★★ | Ground Unit | :ap::uo::uf::ta::dc::h6:","footer":{"text":"See !pet seahorse | !unitskill naga | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/141.png","fields":[{"name":"Abilities","value":"```+ Normal Attack: Attacks enemies with multiple arrows, slowing their movement speed.
 + Skill Attack: Summons ice pillars to trap multiple enemies in an ice prison.
 + Special Ability 1: Increases movement, attack speed and attack range of Orc and Undead by 4%.
 + Special Ability 2: Cloaks the unit to stealthily infiltrate the enemy base to destroy it.
