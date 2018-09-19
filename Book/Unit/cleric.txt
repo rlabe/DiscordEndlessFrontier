@@ -4,8 +4,7 @@
 + Special Ability 1 : Increase basic speed of the game by 8%, and increase movement speed of Human and Orc by 5%, and their attack range by 6%.
 + Special Ability 2 : Appear near the enemy when first appearing, and casts buff to increase the casters movement speed and attack speed.
 + Special Ability 3 : Unaffected by terrain above stage 10,000.
-+ Special Ability 4 : Immune to stun, and doesn't fly into the air, even on blow attacks
-+ Special Ability 5 : Detects cloaking.```"},
++ Special Ability 4 : Immune to stun, and doesn't fly into the air, even on blow attacks.```"},
 {"name":"Passive Abilities",
 "value":"```+ Dimensional Binding 1 (Human and Orc) : Increase attack power, HP, and defense power of Human and Orc in Outland battle by 10% (Max 150%, applies from Time Shop.)
 + Tribe Fortification : Increase Human ability (attack,defense,HP) by 20 levels, and Orc ability by 10 levels, stages only (Max +150 Stages, not from Time Shop.)
