@@ -1,4 +1,4 @@
-.acr "!unit windwalker" {"plaintext":"%user% typed `!unit windwalker`", "title":"Senior Windwalker","description":"★★★★★★ | Ground Unit | :am::eu::um::hn: Gen 10","footer":{"text":"See !pet mori | !unitskill windwalker | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/177.png","fields":[
+.acr "!unit windwalker" {"plaintext":"%user% typed `!unit windwalker`", "title":"Senior Windwalker","description":"★★★★★★ | Ground Unit | :am::ue::um::h10:","footer":{"text":"See !pet mori | !unitskill windwalker | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/177.png","fields":[
 {"name":"Abilities","value":"```+ Normal Attack: Attacks multiple targets, moving fast. 
 + Skill Attack: Attacks multiple targets by throwing several daggers. 
 + Special Ability 1: Increases the game speed by 10% and increases the attack speed and the movement speed of Elf units by 7%. 
