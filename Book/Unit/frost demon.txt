@@ -1,4 +1,4 @@
-.acr "!unit frost demon" {"plaintext":"%user% typed `!unit frost demon`", "title":"Senior Frost Demon","description":"★★★★★★ | Ground Unit | :ap::uo::un::h9:","footer":{"text":"See !pet bamba | !unitskill frost demon | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/172.png","fields":[
+.acr "!unit frost demon" {"plaintext":"%user% typed `!unit frost demon`", "title":"Senior Frost Demon","description":"★★★★★★ | Ground Unit | :ap::uo::un::h9:","footer":{"text":"See !pet bamba | !unitskill frost demon | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/173.png","fields":[
 {"name":"Abilities","value":"```+ Normal Attack: Swing a giant sword to blow away multiple enemies and freeze them by throwing ice lance. Also regenerate a small portion of the HP.
 + Skill Attack : Summon multiple ice pillars to attack enemies and freeze them.
 + Special Ability 1 : Increase basic speed of the game by 8%, and increase movement speed of Orc and Undead by 5%, and their attack range by 6%.
