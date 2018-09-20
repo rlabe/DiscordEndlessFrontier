@@ -14,7 +14,7 @@
     },
     {
       "name": "Solution 1",
-      "value": "EVERYTHING",
+      "value": "https://cdn.discordapp.com/attachments/279062197215297536/492183826492293123/Screenshot_20180920-000113.jpg",
       "inline": false
     },
     {
