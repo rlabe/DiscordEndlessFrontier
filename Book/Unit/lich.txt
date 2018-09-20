@@ -3,4 +3,4 @@
 + Special Ability 1 : Since the body is floating slightly above the ground, it is unaffected by the vine attack of druids who attack from the ground. 
 + Special Ability 2 : Increases the basic speed of the game by 5%. ( If double speed is applied, the game speed increases by 2.1x cumulatively )
 + Special Ability 3 : Increases the critical damage and critical hit rate of all units by 5%. 
-+ Spirit Awakening : Maximum level-up increases by 10 for all units. ( [Spirit Awakening] is cumulative, but the maximum level-up for units cannot increase more than +100. Can also be activated in the Time Shop. )```"},],"color":15843890}
++ Spirit Awakening : Maximum level-up increases by 10 for all units. ( [Spirit Awakening] is cumulative, but the maximum level-up for units cannot increase more than +100. Can also be activated in the Time Shop.)```"},],"color":15843890}
