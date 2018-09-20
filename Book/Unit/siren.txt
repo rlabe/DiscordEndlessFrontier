@@ -1,4 +1,4 @@
-.acr "!unit siren" {"plaintext":"%user% typed `!unit siren`", "title":"Senior Siren","description":"★★★★★★ | Flying Unit | :am::ou::uf::hn: Gen 10","footer":{"text":"See !pet octopa | !unitskill siren | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/181.png","fields":[
+.acr "!unit siren" {"plaintext":"%user% typed `!unit siren`", "title":"Senior Siren","description":"★★★★★★ | Flying Unit | :am::ou::uf::h10:","footer":{"text":"See !pet octopa | !unitskill siren | !books | !unitbook"},"thumbnail":"http://www.endlessfrontierdata.com/images/units/181.png","fields":[
 {"name":"Abilities","value":"```+  Normal Attack: Attacks multiple targets with water bombs, and slows them down.
 + Skill Attack: Grants a chance to imprison an enemy by bubble.
 + Special Ability 1: Increases the game speed by 8% and increases the movement speed of Orc units by 7%, and increase the attack range of Orc units by 6%.
