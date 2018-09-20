@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 13-11",
   "description": "3 fragments of Octopa",
   "footer": {
-    "text": "See !pet "Octopa"
+    "text": "See !pet Octopa"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/139.png",
   "fields": [

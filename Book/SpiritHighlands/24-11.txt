@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 24-11",
   "description": "1 fragment of Sarah",
   "footer": {
-    "text": "See !pet "Sarah"
+    "text": "See !pet Sarah"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/55.png",
   "fields": [

@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 15-11",
   "description": "1 fragment of Snow Bear",
   "footer": {
-    "text": "See !pet "Snow Bear"
+    "text": "See !pet Snow Bear"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/186.png",
   "fields": [

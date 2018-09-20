@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 4-1",
   "description": "3 fragments of Magic Lamp",
   "footer": {
-    "text": "See !pet "Magic Lamp"
+    "text": "See !pet Magic Lamp"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/13.png",
   "fields": [

@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 16-16",
   "description": "1 fragment of Potang",
   "footer": {
-    "text": "See !pet "Potang"
+    "text": "See !pet Potang"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/2.png",
   "fields": [

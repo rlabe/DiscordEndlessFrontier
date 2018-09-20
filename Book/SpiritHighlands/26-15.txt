@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 26-15",
   "description": "3 fragments of Raven",
   "footer": {
-    "text": "See !pet "Raven"
+    "text": "See !pet Raven"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/165.png",
   "fields": [

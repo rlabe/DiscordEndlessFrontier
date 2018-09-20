@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 5-16",
   "description": "3 fragments of Boom Boom",
   "footer": {
-    "text": "See !pet "Boom Boom"
+    "text": "See !pet Boom Boom"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/28.png",
   "fields": [

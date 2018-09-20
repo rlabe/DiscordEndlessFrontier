@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 27-16",
   "description": "1 fragment of Mori",
   "footer": {
-    "text": "See !pet "Mori"
+    "text": "See !pet Mori"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/137.png",
   "fields": [

@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 19-10",
   "description": "3 fragments of Seahorse",
   "footer": {
-    "text": "See !pet "Seahorse"
+    "text": "See !pet Seahorse"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/51.png",
   "fields": [

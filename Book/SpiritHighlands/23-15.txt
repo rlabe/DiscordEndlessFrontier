@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 23-15",
   "description": "3 fragments of Cat Knight",
   "footer": {
-    "text": "See !pet "Cat Knight"
+    "text": "See !pet Cat Knight"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/136.png",
   "fields": [

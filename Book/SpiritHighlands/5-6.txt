@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 5-6",
   "description": "3 fragments of Squirrel",
   "footer": {
-    "text": "See !pet "Squirrel"
+    "text": "See !pet Squirrel"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/18.png",
   "fields": [

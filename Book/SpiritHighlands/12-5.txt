@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 12-5",
   "description": "3 fragments of Nimbus",
   "footer": {
-    "text": "See !pet "Nimbus"
+    "text": "See !pet Nimbus"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/37.png",
   "fields": [

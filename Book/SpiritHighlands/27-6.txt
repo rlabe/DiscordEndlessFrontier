@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 27-6",
   "description": "1 fragment of Bamba",
   "footer": {
-    "text": "See !pet "Bamba"
+    "text": "See !pet Bamba"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/115.png",
   "fields": [

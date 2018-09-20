@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 16-11",
   "description": "1 fragment of Piggy",
   "footer": {
-    "text": "See !pet "Piggy"
+    "text": "See !pet Piggy"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/8.png",
   "fields": [

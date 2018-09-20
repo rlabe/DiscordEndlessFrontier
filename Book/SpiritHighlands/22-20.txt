@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 22-20",
   "description": "3 fragments of Osma",
   "footer": {
-    "text": "See !pet "Osma"
+    "text": "See !pet Osma"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/95.png",
   "fields": [

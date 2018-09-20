@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 5-1",
   "description": "3 fragments of Icy",
   "footer": {
-    "text": "See !pet "Icy"
+    "text": "See !pet Icy"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/17.png",
   "fields": [

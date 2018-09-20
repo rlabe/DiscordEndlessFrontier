@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 2-15",
   "description": "3 fragments of Uni",
   "footer": {
-    "text": "See !pet "Uni"
+    "text": "See !pet Uni"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/14.png",
   "fields": [

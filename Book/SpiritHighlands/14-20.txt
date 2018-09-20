@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 14-20",
   "description": "3 fragments of Jingger",
   "footer": {
-    "text": "See !pet "Jingger"
+    "text": "See !pet Jingger"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/38.png",
   "fields": [

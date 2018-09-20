@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 9-5",
   "description": "3 fragments of Moon",
   "footer": {
-    "text": "See !pet "Moon"
+    "text": "See !pet Moon"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/19.png",
   "fields": [

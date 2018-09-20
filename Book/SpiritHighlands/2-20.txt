@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 2-20",
   "description": "3 fragments of Joe",
   "footer": {
-    "text": "See !pet "Joe"
+    "text": "See !pet Joe"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/2.png",
   "fields": [

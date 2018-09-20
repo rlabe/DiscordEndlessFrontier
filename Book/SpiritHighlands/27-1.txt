@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 27-1",
   "description": "1 fragment of Chesher",
   "footer": {
-    "text": "See !pet "Chesher"
+    "text": "See !pet Chesher"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/114.png",
   "fields": [

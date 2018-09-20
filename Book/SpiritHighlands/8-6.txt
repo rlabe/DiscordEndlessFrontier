@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 8-6",
   "description": "3 fragments of Cora",
   "footer": {
-    "text": "See !pet "Cora"
+    "text": "See !pet Cora"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/42.png",
   "fields": [

@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 22-6",
   "description": "1 fragment of Rapty",
   "footer": {
-    "text": "See !pet "Rapty"
+    "text": "See !pet Rapty"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/1.png",
   "fields": [

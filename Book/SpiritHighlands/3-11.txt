@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 3-11",
   "description": "3 fragments of Grim Reaper",
   "footer": {
-    "text": "See !pet "Grim Reaper"
+    "text": "See !pet Grim Reaper"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/11.png",
   "fields": [

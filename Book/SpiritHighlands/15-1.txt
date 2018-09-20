@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 15-1",
   "description": "1 fragment of Foxy",
   "footer": {
-    "text": "See !pet "Foxy"
+    "text": "See !pet Foxy"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/184.png",
   "fields": [

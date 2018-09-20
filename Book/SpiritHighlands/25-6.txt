@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 25-6",
   "description": "1 fragment of Juda",
   "footer": {
-    "text": "See !pet "Juda"
+    "text": "See !pet Juda"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/58.png",
   "fields": [

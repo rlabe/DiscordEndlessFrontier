@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 25-16",
   "description": "1 fragment of Hippong",
   "footer": {
-    "text": "See !pet "Hippong"
+    "text": "See !pet Hippong"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/94.png",
   "fields": [

@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 13-20",
   "description": "3 fragments of Mir",
   "footer": {
-    "text": "See !pet "Mir"
+    "text": "See !pet Mir"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/36.png",
   "fields": [

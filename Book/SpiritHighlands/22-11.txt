@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 22-11",
   "description": "1 fragment of Winky",
   "footer": {
-    "text": "See !pet "Winky"
+    "text": "See !pet Winky"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/40.png",
   "fields": [

@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 26-6",
   "description": "1 fragment of Saul",
   "footer": {
-    "text": "See !pet "Saul"
+    "text": "See !pet Saul"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/96.png",
   "fields": [

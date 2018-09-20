@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 14-1",
   "description": "3 fragments of Grizzle",
   "footer": {
-    "text": "See !pet "Grizzle"
+    "text": "See !pet Grizzle"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/164.png",
   "fields": [

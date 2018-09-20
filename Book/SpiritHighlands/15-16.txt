@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 15-16",
   "description": "1 fragment of Mambo",
   "footer": {
-    "text": "See !pet "Mambo"
+    "text": "See !pet Mambo"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/1.png",
   "fields": [

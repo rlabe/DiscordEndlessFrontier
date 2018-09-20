@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 26-11",
   "description": "1 fragment of Bernard",
   "footer": {
-    "text": "See !pet "Bernard"
+    "text": "See !pet Bernard"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/112.png",
   "fields": [

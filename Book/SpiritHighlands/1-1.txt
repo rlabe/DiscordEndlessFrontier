@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 1-1",
   "description": "3 fragments of Mambo",
   "footer": {
-    "text": "See !pet "Mambo"
+    "text": "See !pet Mambo"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/1.png",
   "fields": [
@@ -14,7 +14,8 @@
     },
     {
       "name": "Solution 1",
-      "value": "https://cdn.discordapp.com/attachments/279062197215297536/492183826492293123/Screenshot_20180920-000113.jpg",
+	  "image": "https://cdn.discordapp.com/attachments/279062197215297536/492183826492293123/Screenshot_20180920-000113.jpg",
+      "value": "EVERYTHING",
       "inline": false
     },
     {

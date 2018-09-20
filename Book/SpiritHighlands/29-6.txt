@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 29-6",
   "description": "1 fragment of Leyak",
   "footer": {
-    "text": "See !pet "Leyak"
+    "text": "See !pet Leyak"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/166.png",
   "fields": [

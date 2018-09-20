@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 25-15",
   "description": "3 fragments of Athos",
   "footer": {
-    "text": "See !pet "Athos"
+    "text": "See !pet Athos"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/163.png",
   "fields": [

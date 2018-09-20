@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 25-1",
   "description": "1 fragment of Black",
   "footer": {
-    "text": "See !pet "Black"
+    "text": "See !pet Black"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/57.png",
   "fields": [

@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 23-6",
   "description": "1 fragment of Wakong",
   "footer": {
-    "text": "See !pet "Wakong"
+    "text": "See !pet Wakong"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/43.png",
   "fields": [

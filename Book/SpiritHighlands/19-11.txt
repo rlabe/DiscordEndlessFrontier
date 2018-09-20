@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 19-11",
   "description": "1 fragment of Totem",
   "footer": {
-    "text": "See !pet "Totem"
+    "text": "See !pet Totem"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/16.png",
   "fields": [

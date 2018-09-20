@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 20-20",
   "description": "3 fragments of Black",
   "footer": {
-    "text": "See !pet "Black"
+    "text": "See !pet Black"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/57.png",
   "fields": [

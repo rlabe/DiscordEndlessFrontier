@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 3-1",
   "description": "3 fragments of Phoenic",
   "footer": {
-    "text": "See !pet "Phoenic"
+    "text": "See !pet Phoenic"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/9.png",
   "fields": [

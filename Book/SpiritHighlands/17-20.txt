@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 17-20",
   "description": "3 fragments of E-77",
   "footer": {
-    "text": "See !pet "E-77"
+    "text": "See !pet E-77"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/48.png",
   "fields": [

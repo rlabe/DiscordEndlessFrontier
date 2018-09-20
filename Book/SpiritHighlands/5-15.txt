@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 5-15",
   "description": "3 fragments of Woola",
   "footer": {
-    "text": "See !pet "Woola"
+    "text": "See !pet Woola"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/12.png",
   "fields": [

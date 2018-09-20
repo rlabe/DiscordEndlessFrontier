@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 21-1",
   "description": "1 fragment of Devil",
   "footer": {
-    "text": "See !pet "Devil"
+    "text": "See !pet Devil"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/27.png",
   "fields": [

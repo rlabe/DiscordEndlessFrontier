@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 1-15",
   "description": "3 fragments of Mummy",
   "footer": {
-    "text": "See !pet "Mummy"
+    "text": "See !pet Mummy"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/3.png",
   "fields": [

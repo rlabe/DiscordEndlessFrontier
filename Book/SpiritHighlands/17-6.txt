@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 17-6",
   "description": "1 fragment of Joker",
   "footer": {
-    "text": "See !pet "Joker"
+    "text": "See !pet Joker"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/7.png",
   "fields": [

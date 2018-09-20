@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 18-20",
   "description": "3 fragments of Dark Snake",
   "footer": {
-    "text": "See !pet "Dark Snake"
+    "text": "See !pet Dark Snake"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/50.png",
   "fields": [

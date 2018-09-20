@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 16-5",
   "description": "3 fragments of Windy",
   "footer": {
-    "text": "See !pet "Windy"
+    "text": "See !pet Windy"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/49.png",
   "fields": [

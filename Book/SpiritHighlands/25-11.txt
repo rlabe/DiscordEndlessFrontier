@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 25-11",
   "description": "1 fragment of Rena",
   "footer": {
-    "text": "See !pet "Rena"
+    "text": "See !pet Rena"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/93.png",
   "fields": [

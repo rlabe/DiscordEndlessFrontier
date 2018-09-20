@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 2-16",
   "description": "3 fragments of Snork",
   "footer": {
-    "text": "See !pet "Snork"
+    "text": "See !pet Snork"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/8.png",
   "fields": [

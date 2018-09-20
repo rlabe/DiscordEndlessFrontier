@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 15-10",
   "description": "3 fragments of Rapty",
   "footer": {
-    "text": "See !pet "Rapty"
+    "text": "See !pet Rapty"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/1.png",
   "fields": [

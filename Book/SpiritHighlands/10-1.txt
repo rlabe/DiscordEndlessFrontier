@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 10-1",
   "description": "3 fragments of Oscar",
   "footer": {
-    "text": "See !pet "Oscar"
+    "text": "See !pet Oscar"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/56.png",
   "fields": [

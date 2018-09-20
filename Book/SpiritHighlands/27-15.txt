@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 27-15",
   "description": "3 fragments of Little Hawk",
   "footer": {
-    "text": "See !pet "Little Hawk"
+    "text": "See !pet Little Hawk"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/183.png",
   "fields": [

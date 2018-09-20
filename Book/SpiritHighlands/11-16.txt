@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 11-16",
   "description": "3 fragments of Benard",
   "footer": {
-    "text": "See !pet "Benard"
+    "text": "See !pet Benard"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/1.png",
   "fields": [

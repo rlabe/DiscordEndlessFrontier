@@ -3,7 +3,7 @@
   "title": "Spirit Highlands stage 16-10",
   "description": "3 fragments of Bunny",
   "footer": {
-    "text": "See !pet "Bunny"
+    "text": "See !pet Bunny"
   },
   "thumbnail": "http://www.endlessfrontierdata.com/images/pets/41.png",
   "fields": [
