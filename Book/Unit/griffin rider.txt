@@ -3,4 +3,4 @@
 + Special Ability 1 : Increase the movement speed of each air unit in the team by 0.7%. In case of guild war, increases by 0.07%. ( If possessing 5 air units, increases the movement speed by 3.5%. ( Guild war : increases by 0.35% ) ) 
 + Special Ability 2 : increase offline marching speed by 15%
 + Special Ability 3 : Makes oneself invisible at a regular rate and avoids all range attacks when attacked by enemies.
-+ Special Ability 4 : Attacks only the enemies that can operate range air attack. ( + Disregards the skill that makes air units see oneself, among the skills of close units )```"},],"color":15843890}
++ Special Ability 4 : Attacks only the enemies that can operate range air attack. (Disregards the skill that makes air units see oneself, among the skills of close units)```"},],"color":15843890}
