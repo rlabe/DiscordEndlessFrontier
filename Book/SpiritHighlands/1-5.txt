@@ -1,7 +1,6 @@
 .acr "!sh 1-5" {
   "title": "Spirit Highlands Stage 1-5",
   "description": "3 Fragments of Mambo",
-  "color": 53380,
   "footer": {
     "text": "See !pet mambo"
   },
@@ -18,5 +17,5 @@
       "value": "3 x WM",
       "inline": false
     }
-  ]
+  ],  "color": 53380
 }
