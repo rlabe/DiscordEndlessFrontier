@@ -1,7 +1,11 @@
 .acr "!unit alchemist1" {
   "plaintext":"%user% typed `!unit Alchemist`", 
   "title": "Senior Alchemist",
-  "description": "★★★★★★ | Ground Unit | :am::ue::um::ta::dc::h5:",
+  "description": ":star: :star: :star: :star: :star: :star: | Ground Unit | :am::ue::um::ta::dc::h5:",
+  "author": {
+    "name": "Needed without/with pet: 5/10",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/41.png"
+  },
   "footer": {
     "text": "See !pet bunny | !unitskill alchemist | !books | !unitbook"
   },
