@@ -1,0 +1,22 @@
+.acr ":test" {
+  "plaintext": "%user% typed `!unit Gunner`",
+  "title": "Senior Gunner",
+  "description": " :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :uh::ap::um::ta:
+
+   	Ground and melee Unit",
+  "author": {
+    "name": "-",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/2.png"
+},
+"footer": {
+    "text": "See !pet Potang | !unitskill Gunner | !books | !unitbook"
+  },
+  "thumbnail":"http://www.endlessfrontierdata.com/images/units/18.png",
+  "fields":[
+    {
+      "name": "Special Ability",
+      "value": "None."
+    },
+  ],
+  "color":15843890
+}

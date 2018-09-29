@@ -1,0 +1,26 @@
+.acr ":test" {
+  "plaintext": "%user% typed `!unit Aladdin`",
+  "title": "Senior Aladdin",
+  "description": " :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :uh::ap::um::h2:
+
+   	Ground and melee Unit",
+  "author": {
+    "name": "-",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/13.png"
+},
+"footer": {
+    "text": "See !pet Magic Lamp | !unitskill Aladdin | !books | !unitbook"
+  },
+  "thumbnail":"http://www.endlessfrontierdata.com/images/units/105.png",
+  "fields":[
+    {
+      "name": "Special Ability 1",
+      "value": "Scatters golds while moving"
+    },
+    {
+      "name": "Special Ability 2",
+      "value": "When operating Human's Secret Skill, the amount of gold given increases by 10 times by 15% possibility."
+    },
+  ],
+  "color":15843890
+}

@@ -1,0 +1,22 @@
+.acr ":test" {
+  "plaintext": "%user% typed `!unit Priest`",
+  "title": "Senior Priest",
+  "description": " :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :uh::ap::um::h1:
+
+   	Ground and melee Unit",
+  "author": {
+    "name": "-",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/17.png"
+},
+"footer": {
+    "text": "See !pet Icy | !unitskill Priest | !books | !unitbook"
+  },
+  "thumbnail":"http://www.endlessfrontierdata.com/images/units/95.png",
+  "fields":[
+    {
+      "name": "Special Ability 1",
+      "value": "With 5% possibilities, 5 times speedup for 2 minutes on every 10th floor (activation possibility is applied based on accumulation)"
+    },
+  ],
+  "color":15843890
+}

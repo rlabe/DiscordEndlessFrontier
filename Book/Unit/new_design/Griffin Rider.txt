@@ -1,0 +1,34 @@
+.acr ":test" {
+  "plaintext": "%user% typed `!unit Griffin Rider`",
+  "title": "Senior Griffin Rider",
+  "description": " :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :uh::ap::um::h3:
+
+   	Ground and melee Unit",
+  "author": {
+    "name": "-",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/29.png"
+},
+"footer": {
+    "text": "See !pet Griffy | !unitskill Griffin Rider | !books | !unitbook"
+  },
+  "thumbnail":"http://www.endlessfrontierdata.com/images/units/111.png",
+  "fields":[
+    {
+      "name": "Special Ability 1",
+      "value": "Increase the movement speed of each air unit in the team by 0.7%. In case of guild war, increases by 0.07%. ( If possessing 5 air units, increases the movement speed by 3.5%. ( Guild war : increases by 0.35% ) )"
+    },
+    {
+      "name": "Special Ability 2",
+      "value": "Increase offline marching speed by 15%"
+    },
+    {
+      "name": "Special Ability 3",
+      "value": "Makes oneself invisible at a regular rate and avoids all range attacks when attacked by enemies."
+    },
+    {
+      "name": "Special Ability 4",
+      "value": "Attacks only the enemies that can operate range air attack. ( + Disregards the skill that makes air units see oneself, among the skills of close units )"
+    },
+  ],
+  "color":15843890
+}

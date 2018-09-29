@@ -1,0 +1,38 @@
+.acr ":test" {
+  "plaintext": "%user% typed `!unit Musketress`",
+  "title": "Senior Musketress",
+  "description": " :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :uh::ap::um::h11:
+
+   	Ground and melee Unit",
+  "author": {
+    "name": "-",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/163.png"
+},
+"footer": {
+    "text": "See !pet Athos | !unitskill Musketress | !books | !unitbook"
+  },
+  "thumbnail":"http://www.endlessfrontierdata.com/images/units/183.png",
+  "fields":[
+    {
+      "name": "Special Ability 1",
+      "value": "Increases basic game speed by 10%, and increases the critical attack damage and the movement speed of human units by 7%."
+    },
+    {
+      "name": "Special Ability 2",
+      "value": "Appears near the enemies at its first appearance, and casts buff to increase its own movement speed and attack speed."
+    },
+    {
+      "name": "Special Ability 3",
+      "value": "Unaffected by attacks by terrain above stage 10,000."
+    },
+    {
+      "name": "Special Ability 4",
+      "value": "There is a 30% chance that when it dies, an airboard is fired towards the enemy base which explodes and deals damage equal to 100 times its normal attack to the enemy base and the boss."
+    },
+    {
+      "name": "Other Ability 1",
+      "value": "Human Token: Increases the human tribe friendliness that is gained from human unit seals by 5% for each 5-star Musketress, and 10% for each 6-star Musketress. It is applied even when Musketress is in Time Shop and does not exceed 100%."
+    },
+  ],
+  "color":15843890
+}

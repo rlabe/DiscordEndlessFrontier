@@ -1,0 +1,38 @@
+.acr ":test" {
+  "plaintext": "%user% typed `!unit Valkyrie`",
+  "title": "Senior Valkyrie",
+  "description": " :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :uh::ap::um::h7:
+
+   	Ground and melee Unit",
+  "author": {
+    "name": "-",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/55.png"
+},
+"footer": {
+    "text": "See !pet Sarah | !unitskill Valkyrie | !books | !unitbook"
+  },
+  "thumbnail":"http://www.endlessfrontierdata.com/images/units/143.png",
+  "fields":[
+    {
+      "name": "Special Ability 1",
+      "value": "Casts Valkyrie buff when killed."
+    },
+    {
+      "name": "Special Ability 2",
+      "value": "Raises the basic speed of game by 8%."
+    },
+    {
+      "name": "Special Ability 3",
+      "value": "Increases movement speed and attack range of human units by 6%."
+    },
+    {
+      "name": "Special Ability 4",
+      "value": "Immune to paralysis."
+    },
+    {
+      "name": "Other Ability 1",
+      "value": "See !innervate"
+    },
+  ],
+  "color":15843890
+}

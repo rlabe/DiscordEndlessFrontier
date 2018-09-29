@@ -1,0 +1,34 @@
+.acr ":test" {
+  "plaintext": "%user% typed `!unit Pilot`",
+  "title": "Senior Pilot",
+  "description": " :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :uh::ap::um::h5:
+
+   	Air and range Unit",
+  "author": {
+    "name": "-",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/40.png"
+},
+"footer": {
+    "text": "See !pet Winky | !unitskill Pilot | !books | !unitbook"
+  },
+  "thumbnail":"http://www.endlessfrontierdata.com/images/units/125.png",
+  "fields":[
+    {
+      "name": "Special Ability 1",
+      "value": "Also targets and attacks ground melee units. ( Targets and attacks both melee and ranged units. )"
+    },
+    {
+      "name": "Special Ability 2",
+      "value": "Increases the basic speed of the game by 5%. ( If double speed is applied, the game speed increases by 2.1x cumulatively )"
+    },
+    {
+      "name": "Special Ability 3",
+      "value": "Increases the HP and defense power of all units by 5%."
+    },
+    {
+      "name": "Other Ability 1",
+      "value": "See !spirit awakening"
+    },
+  ],
+  "color":15843890
+}

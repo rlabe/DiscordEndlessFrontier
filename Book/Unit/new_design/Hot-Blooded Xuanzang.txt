@@ -1,0 +1,26 @@
+.acr ":test" {
+  "plaintext": "%user% typed `!unit Hot-Blooded Xuanzang`",
+  "title": "Senior Hot-Blooded Xuanzang",
+  "description": " :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :star_ef: :uh::ap::um::h4:
+
+   	Ground and melee Unit",
+  "author": {
+    "name": "-",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/36.png"
+},
+"footer": {
+    "text": "See !pet Mir | !unitskill Hot-Blooded Xuanzang | !books | !unitbook"
+  },
+  "thumbnail":"http://www.endlessfrontierdata.com/images/units/117.png",
+  "fields":[
+    {
+      "name": "Special Ability 1",
+      "value": "Increases the production speed of Human guild unit."
+    },
+    {
+      "name": "Special Ability 2",
+      "value": "Increases medals earned at the time of revival by 5%."
+    },
+  ],
+  "color":15843890
+}

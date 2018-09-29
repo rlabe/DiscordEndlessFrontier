@@ -1,0 +1,22 @@
+.acr ":test" {
+  "plaintext": "%user% typed `!unit Fire Bird`",
+  "title": "Senior Fire Bird",
+  "description": " :star_ef: :star_ef: :star_ef: :star_ef: :uh::ap::um::ta:
+
+   	Air and range Unit",
+  "author": {
+    "name": "-",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/62.png"
+},
+"footer": {
+    "text": "See !pet Hotbee | !unitskill Fire Bird | !books | !unitbook"
+  },
+  "thumbnail":"http://www.endlessfrontierdata.com/images/units/6.png",
+  "fields":[
+    {
+      "name": "Special Ability 1",
+      "value": "Only attack ranged units (+ Disregard air-agro skill of melee unit that makes air units attack himself)."
+    },
+  ],
+  "color":15843890
+}

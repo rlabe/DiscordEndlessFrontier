@@ -1,0 +1,22 @@
+.acr ":test" {
+  "plaintext": "%user% typed `!unit Infantry`",
+  "title": "Senior Infantry",
+  "description": " :star_ef: :star_ef: :uh::ap::um:
+
+   	Ground and melee Unit",
+  "author": {
+    "name": "-",
+    "icon_url": "http://www.endlessfrontierdata.com/images/pets/60.png"
+},
+"footer": {
+    "text": "See !pet Puppy | !unitskill Infantry | !books | !unitbook"
+  },
+  "thumbnail":"http://www.endlessfrontierdata.com/images/units/2.png",
+  "fields":[
+    {
+      "name": "Special Ability",
+      "value": "None."
+    },
+  ],
+  "color":15843890
+}
